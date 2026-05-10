@@ -1,0 +1,94 @@
+{
+  "common_name": "sunflower",
+  "scientific_name": "Echinacea purpurea",
+  "description": {
+    "life_form": "herb",
+    "physiology": "multi stem",
+    "habit": "erect",
+    "category": "ornamentals/turf, medicinals & aromatic",
+    "life_span": "perennial",
+    "plant_attributes": "grown on small scale"
+  },
+  "ecology": {
+    "temperature": {
+      "opt_min": "18",
+      "opt_max": "24",
+      "abs_min": "10",
+      "abs_max": "36"
+    },
+    "rainfall_annual": {
+      "opt_min": "400",
+      "opt_max": "800",
+      "abs_min": "300",
+      "abs_max": "1000"
+    },
+    "latitude": {
+      "opt_min": "-",
+      "opt_max": "-",
+      "abs_min": "-",
+      "abs_max": "-"
+    },
+    "altitude": {
+      "opt_min": "---",
+      "opt_max": "---",
+      "abs_min": "-",
+      "abs_max": "-"
+    },
+    "soil_ph": {
+      "opt_min": "6.5",
+      "opt_max": "7.5",
+      "abs_min": "5.5",
+      "abs_max": "8"
+    },
+    "light_intensity": {
+      "opt_min": "clear skies",
+      "opt_max": "very bright",
+      "abs_min": "light shade",
+      "abs_max": "very bright"
+    },
+    "soil_depth": {
+      "optimal": "medium (50-150 cm)",
+      "absolute": "shallow (20-50 cm)"
+    },
+    "soil_texture": {
+      "optimal": "medium, organic",
+      "absolute": "heavy, medium, light, wide, organic"
+    },
+    "soil_fertility": {
+      "optimal": "high",
+      "absolute": "low"
+    },
+    "soil_al_tox": {
+      "optimal": "",
+      "absolute": ""
+    },
+    "soil_salinity": {
+      "optimal": "low (<4 dS/m)",
+      "absolute": "low (<4 dS/m)"
+    },
+    "soil_drainage": {
+      "optimal": "well (dry spells)",
+      "absolute": "well (dry spells)"
+    }
+  },
+  "climate": {
+    "climate_zone": "subtropical dry summer (Cs)",
+    "photoperiod": "neutral day (12-14 hours)",
+    "killing_temp_during_rest": "-30",
+    "killing_temp_early_growth": "0",
+    "abiotic_tolerance": "",
+    "abiotic_susceptibility": "",
+    "introduction_risks": ""
+  },
+  "cultivation": {
+    "production_system": "home garden, large scale/commercial",
+    "crop_cycle_min": "0",
+    "crop_cycle_max": "0",
+    "cropping_system": "",
+    "subsystem": "",
+    "companion_species": "",
+    "mechanization_level": "",
+    "labour_intensity": ""
+  },
+  "notes": ""
+}

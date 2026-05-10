@@ -1,0 +1,94 @@
+{
+  "common_name": "oil palm",
+  "scientific_name": "Attalea cohune",
+  "description": {
+    "life_form": "tree",
+    "physiology": "evergreen, single stem",
+    "habit": "erect",
+    "category": "fruits & nuts, vegetables, materials, ornamentals/turf",
+    "life_span": "perennial",
+    "plant_attributes": "grown on small scale"
+  },
+  "ecology": {
+    "temperature": {
+      "opt_min": "22",
+      "opt_max": "28",
+      "abs_min": "15",
+      "abs_max": "32"
+    },
+    "rainfall_annual": {
+      "opt_min": "1500",
+      "opt_max": "3000",
+      "abs_min": "1000",
+      "abs_max": "5000"
+    },
+    "latitude": {
+      "opt_min": "10",
+      "opt_max": "9",
+      "abs_min": "23",
+      "abs_max": "24"
+    },
+    "altitude": {
+      "opt_min": "---",
+      "opt_max": "---",
+      "abs_min": "-",
+      "abs_max": "500"
+    },
+    "soil_ph": {
+      "opt_min": "5",
+      "opt_max": "7",
+      "abs_min": "4.5",
+      "abs_max": "7.5"
+    },
+    "light_intensity": {
+      "opt_min": "clear skies",
+      "opt_max": "very bright",
+      "abs_min": "cloudy skies",
+      "abs_max": "very bright"
+    },
+    "soil_depth": {
+      "optimal": "deep (>>150 cm)",
+      "absolute": "deep (>>150 cm)"
+    },
+    "soil_texture": {
+      "optimal": "light",
+      "absolute": "medium, light"
+    },
+    "soil_fertility": {
+      "optimal": "high",
+      "absolute": "moderate"
+    },
+    "soil_al_tox": {
+      "optimal": "",
+      "absolute": ""
+    },
+    "soil_salinity": {
+      "optimal": "low (<4 dS/m)",
+      "absolute": "low (<4 dS/m)"
+    },
+    "soil_drainage": {
+      "optimal": "well (dry spells)",
+      "absolute": "well (dry spells)"
+    }
+  },
+  "climate": {
+    "climate_zone": "tropical wet & dry (Aw), tropical wet (Ar)",
+    "photoperiod": "",
+    "killing_temp_during_rest": "-4",
+    "killing_temp_early_growth": "0",
+    "abiotic_tolerance": "fire, drought",
+    "abiotic_susceptibility": "fire",
+    "introduction_risks": ""
+  },
+  "cultivation": {
+    "production_system": "",
+    "crop_cycle_min": "365",
+    "crop_cycle_max": "365",
+    "cropping_system": "",
+    "subsystem": "",
+    "companion_species": "",
+    "mechanization_level": "",
+    "labour_intensity": ""
+  },
+  "notes": "It is handsome and majestic feather palm reaching 5-20 or even 30 m in height. USE: The heart of the palm, located in the last four feet of the trunk before the base of the leaf stems, is considered a delicacy. It can be cut pieces and eaten raw. In a survival situation, also the inner bark is edible but much tougher than the heart itself. The fruits are eaten fresh and made into sweet meats. Also the seed can be eaten fresh. Palm wine is produced from the heart of the palm and its sap. The fruits are used as livestock feed. The bark can be fed to pigs and chickens. The seeds yield oil which is used extensively as a lubricant, for cooking, soap making and lamp oil. The leaves are used as thatching material for roofs. It is one of nature's largest and most majestic palms. It is very well suited for plantings on campuses, parks and public gardens. Even young trees may be planted in areas receiving full sun and are very resistant to wind damage. GROWING PERIOD: Perennial. COMMON NAMES: Cohune palm, Rain tree, American oil palm. FURTHER INF: It occurs naturally in Central American tropical rainforests in Belize, El Salvador, Honduras, Guatemala, Costa Rica, and coastal southern Mexico. It grows best in a sheltered warm spot in a subtropical setting, or in hot and humid tropical environments. Mature and established plants have been reported to tolerate temperatures down to -4 to -5°C, losing 10%-100% of their foliage but recovering during warmer months. It is not tolerant of forest fires, the mortality either being the result of direct damage or indirect damage such as increased pathogen access through the fire damaged bark."
+}

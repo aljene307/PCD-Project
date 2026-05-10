@@ -1,0 +1,94 @@
+{
+  "common_name": "tobacco",
+  "scientific_name": "Artemisia vulgaris",
+  "description": {
+    "life_form": "herb",
+    "physiology": "",
+    "habit": "erect",
+    "category": "medicinals & aromatic",
+    "life_span": "perennial",
+    "plant_attributes": "grown on small scale"
+  },
+  "ecology": {
+    "temperature": {
+      "opt_min": "-",
+      "opt_max": "-",
+      "abs_min": "-",
+      "abs_max": "-"
+    },
+    "rainfall_annual": {
+      "opt_min": "-",
+      "opt_max": "-",
+      "abs_min": "-",
+      "abs_max": "-"
+    },
+    "latitude": {
+      "opt_min": "-",
+      "opt_max": "-",
+      "abs_min": "-",
+      "abs_max": "-"
+    },
+    "altitude": {
+      "opt_min": "---",
+      "opt_max": "---",
+      "abs_min": "-",
+      "abs_max": "-"
+    },
+    "soil_ph": {
+      "opt_min": "-",
+      "opt_max": "-",
+      "abs_min": "-",
+      "abs_max": "-"
+    },
+    "light_intensity": {
+      "opt_min": "",
+      "opt_max": "",
+      "abs_min": "",
+      "abs_max": ""
+    },
+    "soil_depth": {
+      "optimal": "",
+      "absolute": ""
+    },
+    "soil_texture": {
+      "optimal": "",
+      "absolute": ""
+    },
+    "soil_fertility": {
+      "optimal": "",
+      "absolute": ""
+    },
+    "soil_al_tox": {
+      "optimal": "",
+      "absolute": ""
+    },
+    "soil_salinity": {
+      "optimal": "",
+      "absolute": ""
+    },
+    "soil_drainage": {
+      "optimal": "",
+      "absolute": ""
+    }
+  },
+  "climate": {
+    "climate_zone": "",
+    "photoperiod": "",
+    "killing_temp_during_rest": "no input",
+    "killing_temp_early_growth": "no input",
+    "abiotic_tolerance": "",
+    "abiotic_susceptibility": "",
+    "introduction_risks": ""
+  },
+  "cultivation": {
+    "production_system": "",
+    "crop_cycle_min": "0",
+    "crop_cycle_max": "0",
+    "cropping_system": "",
+    "subsystem": "",
+    "companion_species": "",
+    "mechanization_level": "",
+    "labour_intensity": ""
+  },
+  "notes": ""
+}

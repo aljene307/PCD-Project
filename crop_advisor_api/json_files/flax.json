@@ -1,0 +1,94 @@
+{
+  "common_name": "flax",
+  "scientific_name": "Camelina sativa",
+  "description": {
+    "life_form": "herb",
+    "physiology": "",
+    "habit": "erect",
+    "category": "",
+    "life_span": "annual",
+    "plant_attributes": "grown on small scale"
+  },
+  "ecology": {
+    "temperature": {
+      "opt_min": "-",
+      "opt_max": "-",
+      "abs_min": "-",
+      "abs_max": "-"
+    },
+    "rainfall_annual": {
+      "opt_min": "-",
+      "opt_max": "-",
+      "abs_min": "-",
+      "abs_max": "-"
+    },
+    "latitude": {
+      "opt_min": "-",
+      "opt_max": "-",
+      "abs_min": "-",
+      "abs_max": "-"
+    },
+    "altitude": {
+      "opt_min": "---",
+      "opt_max": "---",
+      "abs_min": "-",
+      "abs_max": "-"
+    },
+    "soil_ph": {
+      "opt_min": "-",
+      "opt_max": "-",
+      "abs_min": "-",
+      "abs_max": "-"
+    },
+    "light_intensity": {
+      "opt_min": "",
+      "opt_max": "",
+      "abs_min": "",
+      "abs_max": ""
+    },
+    "soil_depth": {
+      "optimal": "",
+      "absolute": ""
+    },
+    "soil_texture": {
+      "optimal": "",
+      "absolute": ""
+    },
+    "soil_fertility": {
+      "optimal": "",
+      "absolute": ""
+    },
+    "soil_al_tox": {
+      "optimal": "",
+      "absolute": ""
+    },
+    "soil_salinity": {
+      "optimal": "",
+      "absolute": ""
+    },
+    "soil_drainage": {
+      "optimal": "",
+      "absolute": ""
+    }
+  },
+  "climate": {
+    "climate_zone": "",
+    "photoperiod": "",
+    "killing_temp_during_rest": "no input",
+    "killing_temp_early_growth": "no input",
+    "abiotic_tolerance": "drought",
+    "abiotic_susceptibility": "",
+    "introduction_risks": ""
+  },
+  "cultivation": {
+    "production_system": "",
+    "crop_cycle_min": "0",
+    "crop_cycle_max": "0",
+    "cropping_system": "",
+    "subsystem": "",
+    "companion_species": "",
+    "mechanization_level": "",
+    "labour_intensity": ""
+  },
+  "notes": "It attains heights of 30 to 90 cm tall and has branched smooth or hairy stems that become woody at maturity. Leaves are arrow-shaped, sharp-pointed, 5 to 8 cm long with smooth edges. It produces prolific small, pale yellow or greenish-yellow flowers with 4 petals. Seed pods are 6 to 14 mm long and superficially resemble the bolls of flax. Seeds are small (0.7 mm x 1.5 mm), pale yellow-brown, oblong, rough, with a ridged surface. Under construction..."
+}

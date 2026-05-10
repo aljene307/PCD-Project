@@ -1,0 +1,94 @@
+{
+  "common_name": "cabbage",
+  "scientific_name": "Abelmoschus manihot",
+  "description": {
+    "life_form": "shrub",
+    "physiology": "",
+    "habit": "erect",
+    "category": "vegetables, ornamentals/turf, medicinals & aromatic",
+    "life_span": "annual, perennial",
+    "plant_attributes": "grown on small scale"
+  },
+  "ecology": {
+    "temperature": {
+      "opt_min": "22",
+      "opt_max": "30",
+      "abs_min": "16",
+      "abs_max": "36"
+    },
+    "rainfall_annual": {
+      "opt_min": "1200",
+      "opt_max": "2000",
+      "abs_min": "1000",
+      "abs_max": "3000"
+    },
+    "latitude": {
+      "opt_min": "-",
+      "opt_max": "-",
+      "abs_min": "-",
+      "abs_max": "-"
+    },
+    "altitude": {
+      "opt_min": "---",
+      "opt_max": "---",
+      "abs_min": "-",
+      "abs_max": "1200"
+    },
+    "soil_ph": {
+      "opt_min": "5.5",
+      "opt_max": "7",
+      "abs_min": "5",
+      "abs_max": "8"
+    },
+    "light_intensity": {
+      "opt_min": "very bright",
+      "opt_max": "clear skies",
+      "abs_min": "very bright",
+      "abs_max": "cloudy skies"
+    },
+    "soil_depth": {
+      "optimal": "medium (50-150 cm)",
+      "absolute": "medium (50-150 cm)"
+    },
+    "soil_texture": {
+      "optimal": "medium, organic",
+      "absolute": "heavy, medium, light"
+    },
+    "soil_fertility": {
+      "optimal": "high",
+      "absolute": "moderate"
+    },
+    "soil_al_tox": {
+      "optimal": "",
+      "absolute": ""
+    },
+    "soil_salinity": {
+      "optimal": "low (<4 dS/m)",
+      "absolute": "low (<4 dS/m)"
+    },
+    "soil_drainage": {
+      "optimal": "well (dry spells)",
+      "absolute": "well (dry spells)"
+    }
+  },
+  "climate": {
+    "climate_zone": "tropical wet & dry (Aw), tropical wet (Ar)",
+    "photoperiod": "long day (>14 hours)",
+    "killing_temp_during_rest": "no input",
+    "killing_temp_early_growth": "no input",
+    "abiotic_tolerance": "",
+    "abiotic_susceptibility": "",
+    "introduction_risks": ""
+  },
+  "cultivation": {
+    "production_system": "",
+    "crop_cycle_min": "365",
+    "crop_cycle_max": "365",
+    "cropping_system": "",
+    "subsystem": "",
+    "companion_species": "",
+    "mechanization_level": "",
+    "labour_intensity": ""
+  },
+  "notes": "BRIEF DESCRIPTION A shallow rooted shrub reaching 1-7.5 m in height, with and erect, woody, branching stem, simple leaves and large, pale yellow flowers, 7-15 cm in diameter. USES Young leaves and stem tips are used as cooked green vegetables. It has medicinal properties and plants are also grown as ornamentals. GROWING PERIOD Perennial. Harvest starts about 80-90 days after planting and the bush remains productive for at least a year. Shoots approximately 15 cm in length and with several leaves attached are harvested when the lower leaves have fully developed. COMMON NAMES Sunset hibiscus, Aibika, Gedi, Degi, Lagikuway, Barakue, Glikway, Po-fai. FURTHER INF Scientific synonym: Hibiscus manihot. Sunset hibiscus is native of continental South-West Asia. It is best grown at elevations below 500 m, between 500-1200 m yields may be reduced and the plant may develop an annual habit. It require relative high air humidity and irrigation is necessary during dry periods. Yields of leaves may vary from 10-60 t/ha or 1-6 kg/m˝."
+}

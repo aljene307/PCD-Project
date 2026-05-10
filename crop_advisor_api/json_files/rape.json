@@ -1,0 +1,94 @@
+{
+  "common_name": "rape",
+  "scientific_name": "Brassica campestris",
+  "description": {
+    "life_form": "herb",
+    "physiology": "",
+    "habit": "erect",
+    "category": "materials",
+    "life_span": "annual",
+    "plant_attributes": "grown on large scale"
+  },
+  "ecology": {
+    "temperature": {
+      "opt_min": "17",
+      "opt_max": "30",
+      "abs_min": "5",
+      "abs_max": "41"
+    },
+    "rainfall_annual": {
+      "opt_min": "700",
+      "opt_max": "1000",
+      "abs_min": "400",
+      "abs_max": "3500"
+    },
+    "latitude": {
+      "opt_min": "-",
+      "opt_max": "-",
+      "abs_min": "-",
+      "abs_max": "-"
+    },
+    "altitude": {
+      "opt_min": "---",
+      "opt_max": "---",
+      "abs_min": "-",
+      "abs_max": "-"
+    },
+    "soil_ph": {
+      "opt_min": "6",
+      "opt_max": "7",
+      "abs_min": "5.5",
+      "abs_max": "8"
+    },
+    "light_intensity": {
+      "opt_min": "very bright",
+      "opt_max": "very bright",
+      "abs_min": "very bright",
+      "abs_max": "clear skies"
+    },
+    "soil_depth": {
+      "optimal": "medium (50-150 cm)",
+      "absolute": "medium (50-150 cm)"
+    },
+    "soil_texture": {
+      "optimal": "heavy, medium, light",
+      "absolute": "heavy, medium, light"
+    },
+    "soil_fertility": {
+      "optimal": "high",
+      "absolute": "moderate"
+    },
+    "soil_al_tox": {
+      "optimal": "",
+      "absolute": ""
+    },
+    "soil_salinity": {
+      "optimal": "low (<4 dS/m)",
+      "absolute": "medium (4-10 dS/m)"
+    },
+    "soil_drainage": {
+      "optimal": "well (dry spells)",
+      "absolute": "well (dry spells)"
+    }
+  },
+  "climate": {
+    "climate_zone": "steppe or semiarid (Bs), subtropical dry summer (Cs), temperate oceanic (Do), temperate continental (Dc), temperate with humid winters (Df), temperate with dry winters (Dw)",
+    "photoperiod": "short day (<12 hours), neutral day (12-14 hours), long day (>14 hours)",
+    "killing_temp_during_rest": "-10",
+    "killing_temp_early_growth": "-1",
+    "abiotic_tolerance": "",
+    "abiotic_susceptibility": "",
+    "introduction_risks": ""
+  },
+  "cultivation": {
+    "production_system": "",
+    "crop_cycle_min": "60",
+    "crop_cycle_max": "340",
+    "cropping_system": "",
+    "subsystem": "",
+    "companion_species": "",
+    "mechanization_level": "",
+    "labour_intensity": ""
+  },
+  "notes": "BRIEF DESCRIPTION A herbaceous plant with a slender, erect, branched stem and a taproot reaching 30-100 cm in height. It has broad-based, stem-clasping leaves and the flowers yellow to cream. USES An edible oil used in cooking is extracted from the seeds. KILLING TEMP Bird rape is resistant to frost at all stages of growth. GROWING PERIOD Annual, growing 60-340 days. COMMON NAMES Bird rape, Field mustard, Summer turnip rape, Polish rape, Toria, Sarson, Navette d'hiver, Navette d'ete. FURTHER INF Scientific synonyms: B. campestris var. olifera subvar. biennis (winter turnip rape), B. campestris var. olifera subvar. annua (summer turnip rape). Seed yields of 3.2-3.5 t/ha are considered good, while yields about 1.0-2.2 t/ha are more usual."
+}

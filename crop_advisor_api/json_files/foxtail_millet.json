@@ -1,0 +1,94 @@
+{
+  "common_name": "foxtail millet",
+  "scientific_name": "Setaria italica",
+  "description": {
+    "life_form": "grass",
+    "physiology": "",
+    "habit": "erect",
+    "category": "cereals & pseudocereals, forage/pasture",
+    "life_span": "annual",
+    "plant_attributes": "grown on large scale"
+  },
+  "ecology": {
+    "temperature": {
+      "opt_min": "16",
+      "opt_max": "26",
+      "abs_min": "5",
+      "abs_max": "35"
+    },
+    "rainfall_annual": {
+      "opt_min": "500",
+      "opt_max": "700",
+      "abs_min": "300",
+      "abs_max": "4000"
+    },
+    "latitude": {
+      "opt_min": "-",
+      "opt_max": "-",
+      "abs_min": "25",
+      "abs_max": "30"
+    },
+    "altitude": {
+      "opt_min": "---",
+      "opt_max": "---",
+      "abs_min": "-",
+      "abs_max": "2000"
+    },
+    "soil_ph": {
+      "opt_min": "6",
+      "opt_max": "6.8",
+      "abs_min": "5.5",
+      "abs_max": "8.3"
+    },
+    "light_intensity": {
+      "opt_min": "very bright",
+      "opt_max": "cloudy skies",
+      "abs_min": "very bright",
+      "abs_max": "light shade"
+    },
+    "soil_depth": {
+      "optimal": "deep (>>150 cm)",
+      "absolute": "medium (50-150 cm)"
+    },
+    "soil_texture": {
+      "optimal": "medium, light",
+      "absolute": "heavy, medium, light"
+    },
+    "soil_fertility": {
+      "optimal": "moderate",
+      "absolute": "low"
+    },
+    "soil_al_tox": {
+      "optimal": "",
+      "absolute": ""
+    },
+    "soil_salinity": {
+      "optimal": "low (<4 dS/m)",
+      "absolute": "low (<4 dS/m)"
+    },
+    "soil_drainage": {
+      "optimal": "well (dry spells)",
+      "absolute": "well (dry spells), excessive (dry/moderately dry)"
+    }
+  },
+  "climate": {
+    "climate_zone": "tropical wet & dry (Aw), steppe or semiarid (Bs), subtropical dry summer (Cs)",
+    "photoperiod": "short day (<12 hours), neutral day (12-14 hours)",
+    "killing_temp_during_rest": "no input",
+    "killing_temp_early_growth": "no input",
+    "abiotic_tolerance": "",
+    "abiotic_susceptibility": "",
+    "introduction_risks": ""
+  },
+  "cultivation": {
+    "production_system": "large scale/commercial",
+    "crop_cycle_min": "60",
+    "crop_cycle_max": "120",
+    "cropping_system": "",
+    "subsystem": "ley cropping",
+    "companion_species": "",
+    "mechanization_level": "",
+    "labour_intensity": ""
+  },
+  "notes": "BRIEF DESCRIPTION An erect grass and cereal crop reaching a height of 90-150 cm. USES The grain can be cooked and eaten as rice or ground for porridge or pudding. It is used for birdseed and it can be grown as fodder. GROWING PERIOD Fast-growing summer annual, mature in 60-70 days or 90-120 days depending on conditions and variety. COMMON NAMES Italian millet, Dwarf setaria, Giant setaria, Hungarian millet, Liberty millet, Foxtail millet, Red rala, German millet, Siberian millet. FURTHER INF Scientific synonyms: Panicum italicum, P. viride var italica, Chaetochloa italica. Italian millet is probably native of China. The latitudinal range of the grass is 30°N-S. It can be grown at altitude between sea level and 2000 m. Yields of fresh herbage between 15-20 t/ha have been reported."
+}

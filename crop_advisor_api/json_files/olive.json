@@ -1,0 +1,94 @@
+{
+  "common_name": "olive",
+  "scientific_name": "Annona senegalensis",
+  "description": {
+    "life_form": "shrub, tree",
+    "physiology": "single stem, multi stem",
+    "habit": "erect",
+    "category": "forage/pasture, fruits & nuts, vegetables, materials, medicinals & aromatic",
+    "life_span": "perennial",
+    "plant_attributes": ""
+  },
+  "ecology": {
+    "temperature": {
+      "opt_min": "17",
+      "opt_max": "30",
+      "abs_min": "14",
+      "abs_max": "38"
+    },
+    "rainfall_annual": {
+      "opt_min": "700",
+      "opt_max": "2500",
+      "abs_min": "500",
+      "abs_max": "3000"
+    },
+    "latitude": {
+      "opt_min": "-",
+      "opt_max": "-",
+      "abs_min": "25",
+      "abs_max": "30"
+    },
+    "altitude": {
+      "opt_min": "---",
+      "opt_max": "---",
+      "abs_min": "-",
+      "abs_max": "2400"
+    },
+    "soil_ph": {
+      "opt_min": "5.5",
+      "opt_max": "7",
+      "abs_min": "5",
+      "abs_max": "7.5"
+    },
+    "light_intensity": {
+      "opt_min": "cloudy skies",
+      "opt_max": "very bright",
+      "abs_min": "light shade",
+      "abs_max": "very bright"
+    },
+    "soil_depth": {
+      "optimal": "deep (>>150 cm)",
+      "absolute": "medium (50-150 cm)"
+    },
+    "soil_texture": {
+      "optimal": "medium, light",
+      "absolute": "heavy, medium, light, wide"
+    },
+    "soil_fertility": {
+      "optimal": "moderate",
+      "absolute": "moderate"
+    },
+    "soil_al_tox": {
+      "optimal": "",
+      "absolute": ""
+    },
+    "soil_salinity": {
+      "optimal": "low (<4 dS/m)",
+      "absolute": "low (<4 dS/m)"
+    },
+    "soil_drainage": {
+      "optimal": "well (dry spells)",
+      "absolute": "poorly (saturated >50% of year), well (dry spells)"
+    }
+  },
+  "climate": {
+    "climate_zone": "tropical wet & dry (Aw), subtropical humid (Cf), subtropical dry summer (Cs)",
+    "photoperiod": "",
+    "killing_temp_during_rest": "no input",
+    "killing_temp_early_growth": "no input",
+    "abiotic_tolerance": "",
+    "abiotic_susceptibility": "fire",
+    "introduction_risks": ""
+  },
+  "cultivation": {
+    "production_system": "",
+    "crop_cycle_min": "365",
+    "crop_cycle_max": "365",
+    "cropping_system": "",
+    "subsystem": "",
+    "companion_species": "",
+    "mechanization_level": "",
+    "labour_intensity": ""
+  },
+  "notes": "It is a shrub or small tree reaching 2-6 m in height or even 11 m under favourable conditions. The bark is smooth to roughish, silvery grey or grey-brown, with leaf scars and roughly circular flakes exposing paler patches of under bark. Young branches with dense, brown, yellow or grey hairs that are lost later. USE: The leaves are sometimes used as vegetables, while the edible white pulp of the ripe fruit has a pleasant, pineapple-like taste. Flowers serve as a spice for various meals. Livestock browse the leaves. Insecticide and tannin can be obtained from the bark. Bark, gum, leaves and roots have medicinal properties. GROWING PERIOD: Perennial. COMMON NAMES: wild custard apple, wild soursop. FURTHER INF: Wild trees are found in semi-arid to subhumid all over regions Africa. The species occurs along riverbanks, fallow land, swamp forests and at the coast. Commonly grows as a single plant in the understorey of savannah woodlands. The tree is sensitive to fire and young trees should be protected against browsing."
+}

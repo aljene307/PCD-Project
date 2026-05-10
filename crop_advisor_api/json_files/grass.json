@@ -1,0 +1,94 @@
+{
+  "common_name": "grass",
+  "scientific_name": "Bothriochloa bladhii",
+  "description": {
+    "life_form": "grass",
+    "physiology": "multi stem",
+    "habit": "erect",
+    "category": "forage/pasture, environmental",
+    "life_span": "perennial",
+    "plant_attributes": "grown on large scale"
+  },
+  "ecology": {
+    "temperature": {
+      "opt_min": "15",
+      "opt_max": "28",
+      "abs_min": "5",
+      "abs_max": "33"
+    },
+    "rainfall_annual": {
+      "opt_min": "750",
+      "opt_max": "1200",
+      "abs_min": "600",
+      "abs_max": "2000"
+    },
+    "latitude": {
+      "opt_min": "10",
+      "opt_max": "10",
+      "abs_min": "32",
+      "abs_max": "40"
+    },
+    "altitude": {
+      "opt_min": "---",
+      "opt_max": "---",
+      "abs_min": "-",
+      "abs_max": "2500"
+    },
+    "soil_ph": {
+      "opt_min": "6",
+      "opt_max": "8",
+      "abs_min": "5.5",
+      "abs_max": "8.4"
+    },
+    "light_intensity": {
+      "opt_min": "clear skies",
+      "opt_max": "light shade",
+      "abs_min": "very bright",
+      "abs_max": "light shade"
+    },
+    "soil_depth": {
+      "optimal": "medium (50-150 cm)",
+      "absolute": "medium (50-150 cm)"
+    },
+    "soil_texture": {
+      "optimal": "heavy, medium",
+      "absolute": "heavy, medium"
+    },
+    "soil_fertility": {
+      "optimal": "moderate",
+      "absolute": "low"
+    },
+    "soil_al_tox": {
+      "optimal": "",
+      "absolute": ""
+    },
+    "soil_salinity": {
+      "optimal": "low (<4 dS/m)",
+      "absolute": "low (<4 dS/m)"
+    },
+    "soil_drainage": {
+      "optimal": "well (dry spells), excessive (dry/moderately dry)",
+      "absolute": "poorly (saturated >50% of year), well (dry spells), excessive (dry/moderately dry)"
+    }
+  },
+  "climate": {
+    "climate_zone": "tropical wet & dry (Aw), tropical wet (Ar), subtropical humid (Cf)",
+    "photoperiod": "short day (<12 hours)",
+    "killing_temp_during_rest": "-2",
+    "killing_temp_early_growth": "-1",
+    "abiotic_tolerance": "fire, drought, flooding, grazing/browsing, trampling",
+    "abiotic_susceptibility": "",
+    "introduction_risks": ""
+  },
+  "cultivation": {
+    "production_system": "large scale/commercial",
+    "crop_cycle_min": "150",
+    "crop_cycle_max": "180",
+    "cropping_system": "",
+    "subsystem": "phase planting",
+    "companion_species": "grasses",
+    "mechanization_level": "low",
+    "labour_intensity": "low"
+  },
+  "notes": "BRIEF DESCRIPTION: An erect to ascending branched bunch grass with foliage up to 40-60 cm and culms largely unbranched, 1-1.5 m high at maturity. Leaf blades glabrous or hairy, 20-30 (rarely -50) cm long and 5-7 (rarely -10) mm wide, linear-lanceolate. USES: It is a palatable grass used for pasture and hay, withstanding heavy grassing. It can also be used for erosion control. KILLING T: Survive seasonal frosts. GROWING PERIOD: Perennial, growing in the summer. COMMON NAMES: Australian bluestem, Forest blue grass, Lautoka grass. FURTHER INF: Scientific synonyms: B. intermedia, Andropogon intermedius. It occurs in savannas, open forest and grasslands, often on alluviums, but also in 'vleis', Grows on soils with textures from sandy loam to clays and hard-setting clay loams, with pH from 5.5-8.4. Grows on both fertile and infertile soils, provided exchangeable aluminium levels are fairly low. It is drought hardy, fire tolerant and can stand temporary waterlogging and flooding, but not tolerant of permanently wet conditions."
+}

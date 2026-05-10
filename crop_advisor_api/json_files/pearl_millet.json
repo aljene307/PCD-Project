@@ -1,0 +1,94 @@
+{
+  "common_name": "pearl millet",
+  "scientific_name": "Pennisetum glaucum",
+  "description": {
+    "life_form": "grass",
+    "physiology": "",
+    "habit": "erect",
+    "category": "cereals & pseudocereals",
+    "life_span": "annual",
+    "plant_attributes": "grown on large scale"
+  },
+  "ecology": {
+    "temperature": {
+      "opt_min": "25",
+      "opt_max": "35",
+      "abs_min": "12",
+      "abs_max": "40"
+    },
+    "rainfall_annual": {
+      "opt_min": "400",
+      "opt_max": "900",
+      "abs_min": "200",
+      "abs_max": "1700"
+    },
+    "latitude": {
+      "opt_min": "18",
+      "opt_max": "14",
+      "abs_min": "28",
+      "abs_max": "32"
+    },
+    "altitude": {
+      "opt_min": "---",
+      "opt_max": "---",
+      "abs_min": "-",
+      "abs_max": "1800"
+    },
+    "soil_ph": {
+      "opt_min": "5",
+      "opt_max": "6.5",
+      "abs_min": "4.5",
+      "abs_max": "8.3"
+    },
+    "light_intensity": {
+      "opt_min": "very bright",
+      "opt_max": "very bright",
+      "abs_min": "very bright",
+      "abs_max": "clear skies"
+    },
+    "soil_depth": {
+      "optimal": "deep (>>150 cm)",
+      "absolute": "medium (50-150 cm)"
+    },
+    "soil_texture": {
+      "optimal": "medium, light",
+      "absolute": "medium, light"
+    },
+    "soil_fertility": {
+      "optimal": "moderate",
+      "absolute": "low"
+    },
+    "soil_al_tox": {
+      "optimal": "",
+      "absolute": ""
+    },
+    "soil_salinity": {
+      "optimal": "low (<4 dS/m)",
+      "absolute": "medium (4-10 dS/m)"
+    },
+    "soil_drainage": {
+      "optimal": "well (dry spells)",
+      "absolute": "well (dry spells), excessive (dry/moderately dry)"
+    }
+  },
+  "climate": {
+    "climate_zone": "tropical wet & dry (Aw), tropical wet (Ar), desert or arid (Bw), steppe or semiarid (Bs), subtropical humid (Cf), subtropical dry summer (Cs), subtropical dry winter (Cw)",
+    "photoperiod": "short day (<12 hours), neutral day (12-14 hours)",
+    "killing_temp_during_rest": "2",
+    "killing_temp_early_growth": "0",
+    "abiotic_tolerance": "",
+    "abiotic_susceptibility": "",
+    "introduction_risks": ""
+  },
+  "cultivation": {
+    "production_system": "home garden, small scale (manual), intermediate (animal drawn), large scale/commercial",
+    "crop_cycle_min": "60",
+    "crop_cycle_max": "120",
+    "cropping_system": "",
+    "subsystem": "ley cropping",
+    "companion_species": "",
+    "mechanization_level": "",
+    "labour_intensity": ""
+  },
+  "notes": "BRIEF DESCRIPTION An erect, freely tillering, tufted grass and grain crop reaching a height of 0.5-4 m. The stem is solid and leaves up to 1 m long. USES The grain is cooked as rice, made into flour, or used to produce malt for beer. Whole grains are fed to poultry and livestock. The grain contain about 70% carbohydrate and 10% protein. Green plants provide fodder. Plant straw is used for bedding, thatching, fencing and fuel. GROWING PERIOD Summer annual. Early millets, requires 60-95 days of growing period, medium duration types, about 80 days, and long duration types, 100-120 days. COMMON NAMES Pearl millet, Bulrush millet, Dukn, Bajra, Babala, Spiked millet, Cat-tail millet, Cattail millet, Millet perle, Petit millet, Mijo perla, Panizo Bajra, Mil a chandella, Mil penicillaire. FURTHER INF Scientific synonyms, P. americanum, P. spicatum, P. typhoideum, P. typhoides. Pearl millet is probably indigenous to the western Sahel zone in African. In the tropics, it can be grown at altitude between sea level and 1800 m. It can be grown between 14-32°N and S. Pearl millet is the staple food in parts of tropical Africa and India, which are too hot, dry and sandy for sorghum production. Photosynthesis pathway C4 III. In Africa expected yields of grain are 0.25-1.0 t/ha, normally optimum yields are from 3.0-5.0 t/ha and experimental yields of up to 8 t/ha have been reported. When seedlings are established with fresh water and fertilizer applied, multiple irrigations with seawater can give yields of 1-1.6 t/ha of grain and 3.3-6.5 t/ha of fodder. Mentioned as a useful agroforestry species."
+}

@@ -1,0 +1,94 @@
+{
+  "common_name": "oat",
+  "scientific_name": "Avena sativa",
+  "description": {
+    "life_form": "grass",
+    "physiology": "",
+    "habit": "erect",
+    "category": "cereals & pseudocereals, cover crop",
+    "life_span": "annual",
+    "plant_attributes": "grown on large scale"
+  },
+  "ecology": {
+    "temperature": {
+      "opt_min": "16",
+      "opt_max": "20",
+      "abs_min": "5",
+      "abs_max": "30"
+    },
+    "rainfall_annual": {
+      "opt_min": "600",
+      "opt_max": "1000",
+      "abs_min": "250",
+      "abs_max": "1500"
+    },
+    "latitude": {
+      "opt_min": "45",
+      "opt_max": "40",
+      "abs_min": "60",
+      "abs_max": "60"
+    },
+    "altitude": {
+      "opt_min": "---",
+      "opt_max": "---",
+      "abs_min": "-",
+      "abs_max": "-"
+    },
+    "soil_ph": {
+      "opt_min": "5",
+      "opt_max": "6",
+      "abs_min": "4.5",
+      "abs_max": "7.5"
+    },
+    "light_intensity": {
+      "opt_min": "very bright",
+      "opt_max": "very bright",
+      "abs_min": "very bright",
+      "abs_max": "cloudy skies"
+    },
+    "soil_depth": {
+      "optimal": "medium (50-150 cm)",
+      "absolute": "shallow (20-50 cm)"
+    },
+    "soil_texture": {
+      "optimal": "heavy, medium, light",
+      "absolute": "heavy, medium, light"
+    },
+    "soil_fertility": {
+      "optimal": "high",
+      "absolute": "moderate"
+    },
+    "soil_al_tox": {
+      "optimal": "",
+      "absolute": ""
+    },
+    "soil_salinity": {
+      "optimal": "low (<4 dS/m)",
+      "absolute": "low (<4 dS/m)"
+    },
+    "soil_drainage": {
+      "optimal": "well (dry spells)",
+      "absolute": "well (dry spells)"
+    }
+  },
+  "climate": {
+    "climate_zone": "tropical wet & dry (Aw), tropical wet (Ar), desert or arid (Bw), steppe or semiarid (Bs), subtropical humid (Cf), subtropical dry summer (Cs), subtropical dry winter (Cw), temperate oceanic (Do), temperate continental (Dc), temperate with humid winters (Df), temperate with dry winters (Dw)",
+    "photoperiod": "neutral day (12-14 hours), long day (>14 hours)",
+    "killing_temp_during_rest": "-15",
+    "killing_temp_early_growth": "-1",
+    "abiotic_tolerance": "",
+    "abiotic_susceptibility": "",
+    "introduction_risks": ""
+  },
+  "cultivation": {
+    "production_system": "",
+    "crop_cycle_min": "110",
+    "crop_cycle_max": "270",
+    "cropping_system": "",
+    "subsystem": "",
+    "companion_species": "",
+    "mechanization_level": "",
+    "labour_intensity": ""
+  },
+  "notes": "BRIEF DESCRIPTION A grass and cereal crop reaching a height of 60-120 cm. USES The cereals are made into porridges and oatcakes and fed to livestock or used as food. It is also a good hay crop. GROWING PERIOD Annual, spring cultivars growing 110-160 days, and winter cultivars 210-270 days. Monegat; autumn sown in Brazil it provides groundcover in 45-65 days, flowers in 110-140 days and mature in 125-160 days. COMMON NAMES Common Oat, Oat, Oats. FURTHER INF Oats are native of western Europe. It prefers a cool and moist climate, especially during the summer. Winter varieties are sown in areas with relatively mild winters while spring varieties are used where winters are more severe. Hot dry weather just before heading causes the crop to blast during heading and ripening and produce poorly filled seed of light weight. Heavy, poorly drained soils and soils with high nitrogen levels are likely to cause lodging. Photosynthesis pathway C 3 I. Average seed yield is about 1.8-2 tha, while good yields can reach 3 t/ha."
+}

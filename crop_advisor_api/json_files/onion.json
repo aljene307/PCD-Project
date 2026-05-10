@@ -1,0 +1,94 @@
+{
+  "common_name": "onion",
+  "scientific_name": "Allium cepa",
+  "description": {
+    "life_form": "herb",
+    "physiology": "",
+    "habit": "erect",
+    "category": "vegetables, medicinals & aromatic",
+    "life_span": "biennial",
+    "plant_attributes": "grown on large scale"
+  },
+  "ecology": {
+    "temperature": {
+      "opt_min": "12",
+      "opt_max": "25",
+      "abs_min": "4",
+      "abs_max": "30"
+    },
+    "rainfall_annual": {
+      "opt_min": "350",
+      "opt_max": "600",
+      "abs_min": "300",
+      "abs_max": "2800"
+    },
+    "latitude": {
+      "opt_min": "-",
+      "opt_max": "-",
+      "abs_min": "60",
+      "abs_max": "60"
+    },
+    "altitude": {
+      "opt_min": "---",
+      "opt_max": "---",
+      "abs_min": "-",
+      "abs_max": "2000"
+    },
+    "soil_ph": {
+      "opt_min": "6",
+      "opt_max": "7",
+      "abs_min": "4.3",
+      "abs_max": "8.3"
+    },
+    "light_intensity": {
+      "opt_min": "clear skies",
+      "opt_max": "clear skies",
+      "abs_min": "cloudy skies",
+      "abs_max": "very bright"
+    },
+    "soil_depth": {
+      "optimal": "medium (50-150 cm)",
+      "absolute": "shallow (20-50 cm)"
+    },
+    "soil_texture": {
+      "optimal": "medium, organic",
+      "absolute": "wide, organic"
+    },
+    "soil_fertility": {
+      "optimal": "moderate",
+      "absolute": "low"
+    },
+    "soil_al_tox": {
+      "optimal": "",
+      "absolute": ""
+    },
+    "soil_salinity": {
+      "optimal": "low (<4 dS/m)",
+      "absolute": "medium (4-10 dS/m)"
+    },
+    "soil_drainage": {
+      "optimal": "well (dry spells)",
+      "absolute": "well (dry spells)"
+    }
+  },
+  "climate": {
+    "climate_zone": "tropical wet & dry (Aw), tropical wet (Ar), steppe or semiarid (Bs), subtropical humid (Cf), subtropical dry summer (Cs), subtropical dry winter (Cw), temperate oceanic (Do), temperate continental (Dc), temperate with humid winters (Df), temperate with dry winters (Dw)",
+    "photoperiod": "short day (<12 hours), neutral day (12-14 hours), long day (>14 hours)",
+    "killing_temp_during_rest": "no input",
+    "killing_temp_early_growth": "no input",
+    "abiotic_tolerance": "",
+    "abiotic_susceptibility": "",
+    "introduction_risks": ""
+  },
+  "cultivation": {
+    "production_system": "home garden, large scale/commercial",
+    "crop_cycle_min": "85",
+    "crop_cycle_max": "175",
+    "cropping_system": "",
+    "subsystem": "",
+    "companion_species": "",
+    "mechanization_level": "",
+    "labour_intensity": ""
+  },
+  "notes": ""
+}

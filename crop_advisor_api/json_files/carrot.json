@@ -1,0 +1,94 @@
+{
+  "common_name": "carrot",
+  "scientific_name": "Arracacia xanthorrhiza",
+  "description": {
+    "life_form": "herb",
+    "physiology": "",
+    "habit": "prostrate/procumbent/semi-erect",
+    "category": "roots/tubers",
+    "life_span": "perennial",
+    "plant_attributes": "grown on small scale"
+  },
+  "ecology": {
+    "temperature": {
+      "opt_min": "14",
+      "opt_max": "21",
+      "abs_min": "10",
+      "abs_max": "28"
+    },
+    "rainfall_annual": {
+      "opt_min": "800",
+      "opt_max": "1200",
+      "abs_min": "600",
+      "abs_max": "1800"
+    },
+    "latitude": {
+      "opt_min": "-",
+      "opt_max": "-",
+      "abs_min": "10",
+      "abs_max": "10"
+    },
+    "altitude": {
+      "opt_min": "---",
+      "opt_max": "---",
+      "abs_min": "600",
+      "abs_max": "3500"
+    },
+    "soil_ph": {
+      "opt_min": "5",
+      "opt_max": "6",
+      "abs_min": "4.5",
+      "abs_max": "6.5"
+    },
+    "light_intensity": {
+      "opt_min": "very bright",
+      "opt_max": "clear skies",
+      "abs_min": "very bright",
+      "abs_max": "cloudy skies"
+    },
+    "soil_depth": {
+      "optimal": "medium (50-150 cm)",
+      "absolute": "shallow (20-50 cm)"
+    },
+    "soil_texture": {
+      "optimal": "light, organic",
+      "absolute": "medium, light"
+    },
+    "soil_fertility": {
+      "optimal": "high",
+      "absolute": "low"
+    },
+    "soil_al_tox": {
+      "optimal": "",
+      "absolute": ""
+    },
+    "soil_salinity": {
+      "optimal": "low (<4 dS/m)",
+      "absolute": "low (<4 dS/m)"
+    },
+    "soil_drainage": {
+      "optimal": "well (dry spells)",
+      "absolute": "well (dry spells)"
+    }
+  },
+  "climate": {
+    "climate_zone": "tropical wet & dry (Aw), tropical wet (Ar), subtropical humid (Cf), subtropical dry summer (Cs), subtropical dry winter (Cw)",
+    "photoperiod": "short day (<12 hours)",
+    "killing_temp_during_rest": "no input",
+    "killing_temp_early_growth": "no input",
+    "abiotic_tolerance": "humidity",
+    "abiotic_susceptibility": "",
+    "introduction_risks": ""
+  },
+  "cultivation": {
+    "production_system": "small scale (manual)",
+    "crop_cycle_min": "120",
+    "crop_cycle_max": "365",
+    "cropping_system": "",
+    "subsystem": "inter-cropping",
+    "companion_species": "maize, beans",
+    "mechanization_level": "",
+    "labour_intensity": ""
+  },
+  "notes": "BRIEF DESCRIPTION The plant has a short, cylindrical stem which can reach 10 cm in height and 10 cm in diameter. Both long and fine roots and edible, tuberous and fusiform roots emerge from the stem. The later are 5-25 cm long and up to 8 cm in diameter. USES The roots are eaten boiled, as an ingredient in soups and stews, as a puree, roasted or fried in slices. It is a good source of minerals and vitamins. The leaves are used in the same way as celery in raw or cooked salads. The crown of the root is used to feed dairy livestock and also the stem and leaves can be used as animal feed. GROWING PERIOD Perennial herb, immature tubers may be harvested 120-240 days from planting, mature tubers after 300-400 days. COMMON NAMES Peruvian carrot, White carrot, Arracacha, Arracha, Peruvian parsnip, Raracha, Pomme de terre celeri, Apio criollo, Arrecate, Batata baroa, Mandioquin-hasalsa, Racacha virraca, Zanhoria blanca, Lakachu, Laqachu, Rakkacha, Huiasampilla, Lekachu, Lecachu, Virraca, Zanahoria blanca, Mandioquinha-salsa, Mandoquinha, Batata salsa, Batata cenoura, Paneme, Oqqe, Sonarca. FURTHER INF Scientific synonym: A. esculenta. Peruvian carrot is probably native of Colombia, Ecuador and Peru. In Colombia it is best grown at elevations between 1800-2600 m but it can be cultivated at elevations between 600 and 3500 m. Can reach a height of up to 1.2 m. Yields of roots from 5-15 t/ha have been recorded, one plant may produce 6-10 lateral tubers, each weighing 2-3 kg."
+}

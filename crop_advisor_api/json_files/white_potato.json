@@ -1,0 +1,94 @@
+{
+  "common_name": "white potato",
+  "scientific_name": "Solanum tuberosum",
+  "description": {
+    "life_form": "herb",
+    "physiology": "multi stem",
+    "habit": "erect",
+    "category": "roots/tubers, medicinals & aromatic",
+    "life_span": "annual",
+    "plant_attributes": "grown on large scale"
+  },
+  "ecology": {
+    "temperature": {
+      "opt_min": "15",
+      "opt_max": "25",
+      "abs_min": "7",
+      "abs_max": "30"
+    },
+    "rainfall_annual": {
+      "opt_min": "500",
+      "opt_max": "800",
+      "abs_min": "250",
+      "abs_max": "2000"
+    },
+    "latitude": {
+      "opt_min": "-",
+      "opt_max": "-",
+      "abs_min": "20",
+      "abs_max": "60"
+    },
+    "altitude": {
+      "opt_min": "---",
+      "opt_max": "---",
+      "abs_min": "-",
+      "abs_max": "2800"
+    },
+    "soil_ph": {
+      "opt_min": "5",
+      "opt_max": "6.2",
+      "abs_min": "4.2",
+      "abs_max": "8.5"
+    },
+    "light_intensity": {
+      "opt_min": "very bright",
+      "opt_max": "very bright",
+      "abs_min": "very bright",
+      "abs_max": "cloudy skies"
+    },
+    "soil_depth": {
+      "optimal": "medium (50-150 cm)",
+      "absolute": "shallow (20-50 cm)"
+    },
+    "soil_texture": {
+      "optimal": "medium, organic",
+      "absolute": "heavy, medium, light"
+    },
+    "soil_fertility": {
+      "optimal": "moderate",
+      "absolute": "low"
+    },
+    "soil_al_tox": {
+      "optimal": "",
+      "absolute": ""
+    },
+    "soil_salinity": {
+      "optimal": "low (<4 dS/m)",
+      "absolute": "low (<4 dS/m)"
+    },
+    "soil_drainage": {
+      "optimal": "well (dry spells)",
+      "absolute": "well (dry spells), excessive (dry/moderately dry)"
+    }
+  },
+  "climate": {
+    "climate_zone": "tropical wet & dry (Aw), tropical wet (Ar), steppe or semiarid (Bs), subtropical humid (Cf), subtropical dry summer (Cs), subtropical dry winter (Cw), temperate oceanic (Do), temperate continental (Dc), temperate with humid winters (Df), temperate with dry winters (Dw)",
+    "photoperiod": "short day (<12 hours), neutral day (12-14 hours), long day (>14 hours)",
+    "killing_temp_during_rest": "-1",
+    "killing_temp_early_growth": "0",
+    "abiotic_tolerance": "",
+    "abiotic_susceptibility": "",
+    "introduction_risks": "poisonous to man or animals"
+  },
+  "cultivation": {
+    "production_system": "home garden, large scale/commercial",
+    "crop_cycle_min": "90",
+    "crop_cycle_max": "160",
+    "cropping_system": "",
+    "subsystem": "ley cropping",
+    "companion_species": "",
+    "mechanization_level": "",
+    "labour_intensity": ""
+  },
+  "notes": "Erect or clambering succulent herbaceous branched tuber crop up to more than 1 m tall, the stems sometimes quadrangular or even winged. Leaves alternate, imparipinnate, short-stalked, 10-30 cm long, 5-15 cm wide, the leaflets opposite or alternate, very unequal in size and shape, the larger often petiolulate, ovate to ovate-oblong, enequilateral, apically acuminate to acute, basally subcordate, 2-10 cm long, 1-6 cm wide, the smaller more blunt apically, more cordate basally, broadly ovate to orbicular, 2ˆ15 mm in diameter, thinly to densely pubescent. Flowers white or blue, pedunculate in lateral, many flowered cymes, the hairy peduncle 5-15 cm long, the jointed hairy pedicels 3-35 mm long. Calyx campanulate, 5-lobate, 1.5-2 cm in diameter, the lobes acute or acuminate. Corolla twice as long as calyx, 3.5-4 cm in diameter. Anthers free, erect, poricidal, yellow. Fruit a globose 2-celled berry, many-seeded, yellowish green. The tubers are mostly located within the top 25 cm of the soil. USES: It is cultivated for its edible tubers. Tubers are one of the temperate staples, eaten boiled, baked, fried, stewed, candied with syrup, or pureed and they are processed into fried chips, starch, flour, glucose, and alcohol and they can be canned or dehydrated etc. Surplus potatoes are used for fodder and alcohol, and chemurgic applications. The flour can be used for baking. Potato starch is used to determine the diastatic value of starch. Boiled with weak sulphuric acid, potato starch is changed into glucose and fermented into alcohol. It is estimated that potatoes would give 104 liters ethanol per ton of production. Rotten potatoes and the waste in the potato chip industry can be converted to butanol with a greater energy content than ethanol. Twenty percent butanol can be added to regular gas and up to 40% to diesel as extenders without engine modification. Ripe potato juice is excellent for cleaning cottons, silks, and woolens. Root and leaf diffusates of growing potato plants possess cardiotonic activity. Dried ethanol extracts of above-ground parts show marked hypotensive and myotropic action and a spasmolytic and soothing effect on intestinal musculature. Ethanol extracts of leaves have antifungal properties, active against Phytophthora infestans. Leaves, seeds, and tuber extracts show antimicrobial activity against Gram-positive and Gram-negative bacteria. The tubers contain 8-28% starch and 1-4% protein. KILLING T.: -1oC. GROWING PERIOD: Short-lived perennial, grown as an annual, growing 90-160 days. COMMON NAMES: Potato, spud, Irish potato, English potato, pomme de terre, papa, patata, kartoffel, aardappel, alv, watalu, kentang, yang shu, shue tsai, viazi, poni, turma, batata, aardappel, bareisko, jyagaima, ganja, alu, toru, cartoful, hardoppel. FURTHER INF.: The green parts of the potato plant contain toxins. Flowers are common but fruits are only set in cool climates or under a day length of 16-17 hours. The fruits are berries, similar to small tomatoes. Ranging from Boreal Moist to Wet through Tropical Very Dry to Wet Forest Life Zones, potato is reported to tolerate annual precipitations of 900 to 4100 mm, annual temperatures of 3.6 to 27.8oC and a pH of 4.2 to 8.2. Potatoes are a cool weather crop, the optimal temperature for growth being 15-20oC for most cvs. Growth of tubers is best at a soil temperature of 17-20oC, with usually no tubers formed above 32oC. They perform well on a wide variety of soils, sandy loams, silt loams, loams, and peats. Soil moisture tensions between 40 and 60 centibars seem to produce the best yields. The species is native to the Andean mountains between 10oN and 20oS. The latitudinal range is 60oN to 40oS. In the tropics, potato can be grown at altitude between 400-2500 m. Photosynthesis pathway C3:1. Yields of 10-35 t/ha have been recorded."
+}

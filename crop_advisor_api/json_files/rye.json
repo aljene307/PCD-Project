@@ -1,0 +1,94 @@
+{
+  "common_name": "rye",
+  "scientific_name": "Elymus glaucus",
+  "description": {
+    "life_form": "grass",
+    "physiology": "multi stem",
+    "habit": "prostrate/procumbent/semi-erect",
+    "category": "forage/pasture, ornamentals/turf, environmental",
+    "life_span": "perennial",
+    "plant_attributes": ""
+  },
+  "ecology": {
+    "temperature": {
+      "opt_min": "9",
+      "opt_max": "15",
+      "abs_min": "2",
+      "abs_max": "19"
+    },
+    "rainfall_annual": {
+      "opt_min": "500",
+      "opt_max": "700",
+      "abs_min": "350",
+      "abs_max": "1200"
+    },
+    "latitude": {
+      "opt_min": "-",
+      "opt_max": "-",
+      "abs_min": "-",
+      "abs_max": "-"
+    },
+    "altitude": {
+      "opt_min": "---",
+      "opt_max": "---",
+      "abs_min": "-",
+      "abs_max": "-"
+    },
+    "soil_ph": {
+      "opt_min": "6",
+      "opt_max": "7",
+      "abs_min": "5.5",
+      "abs_max": "7.5"
+    },
+    "light_intensity": {
+      "opt_min": "very bright",
+      "opt_max": "cloudy skies",
+      "abs_min": "very bright",
+      "abs_max": "light shade"
+    },
+    "soil_depth": {
+      "optimal": "medium (50-150 cm)",
+      "absolute": "shallow (20-50 cm)"
+    },
+    "soil_texture": {
+      "optimal": "medium, light",
+      "absolute": "heavy, medium, light"
+    },
+    "soil_fertility": {
+      "optimal": "low",
+      "absolute": "low"
+    },
+    "soil_al_tox": {
+      "optimal": "",
+      "absolute": ""
+    },
+    "soil_salinity": {
+      "optimal": "low (<4 dS/m)",
+      "absolute": "medium (4-10 dS/m)"
+    },
+    "soil_drainage": {
+      "optimal": "well (dry spells), excessive (dry/moderately dry)",
+      "absolute": "well (dry spells), excessive (dry/moderately dry)"
+    }
+  },
+  "climate": {
+    "climate_zone": "steppe or semiarid (Bs), subtropical humid (Cf), subtropical dry summer (Cs), subtropical dry winter (Cw), temperate oceanic (Do), temperate continental (Dc), temperate with humid winters (Df), temperate with dry winters (Dw)",
+    "photoperiod": "long day (>14 hours)",
+    "killing_temp_during_rest": "-5",
+    "killing_temp_early_growth": "0",
+    "abiotic_tolerance": "",
+    "abiotic_susceptibility": "",
+    "introduction_risks": ""
+  },
+  "cultivation": {
+    "production_system": "",
+    "crop_cycle_min": "70",
+    "crop_cycle_max": "150",
+    "cropping_system": "",
+    "subsystem": "",
+    "companion_species": "",
+    "mechanization_level": "",
+    "labour_intensity": ""
+  },
+  "notes": "BRIEF DESCRIPTION A grass. USES It is often grown as an ornamental, it is a good source of hay, and it also has value as a soil and sand binder. GROWING PERIOD Short-lived perennial. COMMON NAMES Blue wildrye."
+}

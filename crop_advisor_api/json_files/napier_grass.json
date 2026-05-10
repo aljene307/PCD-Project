@@ -1,0 +1,94 @@
+{
+  "common_name": "napier grass",
+  "scientific_name": "Pennisetum purpureum",
+  "description": {
+    "life_form": "grass",
+    "physiology": "multi stem",
+    "habit": "erect",
+    "category": "forage/pasture, environmental",
+    "life_span": "perennial",
+    "plant_attributes": "grown on large scale, grown on small scale"
+  },
+  "ecology": {
+    "temperature": {
+      "opt_min": "21",
+      "opt_max": "40",
+      "abs_min": "15",
+      "abs_max": "45"
+    },
+    "rainfall_annual": {
+      "opt_min": "1500",
+      "opt_max": "2500",
+      "abs_min": "850",
+      "abs_max": "4000"
+    },
+    "latitude": {
+      "opt_min": "-",
+      "opt_max": "-",
+      "abs_min": "30",
+      "abs_max": "40"
+    },
+    "altitude": {
+      "opt_min": "---",
+      "opt_max": "---",
+      "abs_min": "-",
+      "abs_max": "2000"
+    },
+    "soil_ph": {
+      "opt_min": "5",
+      "opt_max": "6.5",
+      "abs_min": "4.5",
+      "abs_max": "8.2"
+    },
+    "light_intensity": {
+      "opt_min": "very bright",
+      "opt_max": "cloudy skies",
+      "abs_min": "very bright",
+      "abs_max": "light shade"
+    },
+    "soil_depth": {
+      "optimal": "deep (>>150 cm)",
+      "absolute": "shallow (20-50 cm)"
+    },
+    "soil_texture": {
+      "optimal": "medium",
+      "absolute": "heavy, medium, light"
+    },
+    "soil_fertility": {
+      "optimal": "high",
+      "absolute": "low"
+    },
+    "soil_al_tox": {
+      "optimal": "",
+      "absolute": ""
+    },
+    "soil_salinity": {
+      "optimal": "low (<4 dS/m)",
+      "absolute": "high (>10 dS/m))"
+    },
+    "soil_drainage": {
+      "optimal": "well (dry spells)",
+      "absolute": "poorly (saturated >50% of year), well (dry spells), excessive (dry/moderately dry)"
+    }
+  },
+  "climate": {
+    "climate_zone": "tropical wet & dry (Aw), tropical wet (Ar), subtropical humid (Cf), subtropical dry summer (Cs), temperate oceanic (Do)",
+    "photoperiod": "short day (<12 hours)",
+    "killing_temp_during_rest": "-1",
+    "killing_temp_early_growth": "0",
+    "abiotic_tolerance": "fire",
+    "abiotic_susceptibility": "flooding",
+    "introduction_risks": ""
+  },
+  "cultivation": {
+    "production_system": "large scale/commercial",
+    "crop_cycle_min": "120",
+    "crop_cycle_max": "210",
+    "cropping_system": "",
+    "subsystem": "sole cropping",
+    "companion_species": "",
+    "mechanization_level": "low",
+    "labour_intensity": "low"
+  },
+  "notes": "BRIEF DESCRIPTION A tall, vigorous, clumped grass growing 3-7 m high. USES Used for pasture and in its early stages it is also useful for silage. It can be used for ground cover, soil conservation and windbreaks. KILLING T Can survive light frost. GROWING PERIOD Perennial, growing in the summer, for about 210 days. First cut can be made about 120 days after planting and thereafter it may be cut at intervals of 30-85 days. Fields should be replanted every 5-6 years. Under favourable conditions the plant can reach a height of several metres within 60 days. COMMON NAMES Elephant grass, Elefante grass, Napier grass, Gigante, Mfufu, Napier fodder grass, Pasto gigante, Herbe d'elephant, Rumput gajah, Buntot-pusa, Handalawi, Lagoli, Ya-nepia, Co' duoi voi. FURTHER INF Elephant grass is native of tropical Africa and is usually found within the latitudinal range 10°N to 20°S. It is adapted to areas with relative air humudity about 65-72% and daylength 11.1-13 hours. It can be found at altitudes from sea level to 1600-2000 m and is common in damp grassland, along forest edges and in cultivation. Four to six cuts per year have produced 45-136 t/ha of green matter. Dry matter yields may be 2-10 t/ha from unfertilized stands and 6-40 t/ha from fertilized stands."
+}

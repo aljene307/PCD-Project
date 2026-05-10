@@ -1,0 +1,94 @@
+{
+  "common_name": "alfalfa",
+  "scientific_name": "Medicago falcata",
+  "description": {
+    "life_form": "herb",
+    "physiology": "multi stem",
+    "habit": "",
+    "category": "forage/pasture, environmental, weed",
+    "life_span": "perennial",
+    "plant_attributes": ""
+  },
+  "ecology": {
+    "temperature": {
+      "opt_min": "15",
+      "opt_max": "24",
+      "abs_min": "2",
+      "abs_max": "37"
+    },
+    "rainfall_annual": {
+      "opt_min": "500",
+      "opt_max": "900",
+      "abs_min": "310",
+      "abs_max": "1360"
+    },
+    "latitude": {
+      "opt_min": "-",
+      "opt_max": "-",
+      "abs_min": "-",
+      "abs_max": "-"
+    },
+    "altitude": {
+      "opt_min": "---",
+      "opt_max": "---",
+      "abs_min": "-",
+      "abs_max": "-"
+    },
+    "soil_ph": {
+      "opt_min": "6",
+      "opt_max": "7",
+      "abs_min": "5",
+      "abs_max": "8.2"
+    },
+    "light_intensity": {
+      "opt_min": "very bright",
+      "opt_max": "very bright",
+      "abs_min": "very bright",
+      "abs_max": "cloudy skies"
+    },
+    "soil_depth": {
+      "optimal": "medium (50-150 cm)",
+      "absolute": "shallow (20-50 cm)"
+    },
+    "soil_texture": {
+      "optimal": "medium, light",
+      "absolute": "medium, light"
+    },
+    "soil_fertility": {
+      "optimal": "moderate",
+      "absolute": "low"
+    },
+    "soil_al_tox": {
+      "optimal": "",
+      "absolute": ""
+    },
+    "soil_salinity": {
+      "optimal": "low (<4 dS/m)",
+      "absolute": "medium (4-10 dS/m)"
+    },
+    "soil_drainage": {
+      "optimal": "well (dry spells)",
+      "absolute": "poorly (saturated >50% of year), well (dry spells)"
+    }
+  },
+  "climate": {
+    "climate_zone": "steppe or semiarid (Bs), subtropical humid (Cf), subtropical dry summer (Cs), subtropical dry winter (Cw), temperate oceanic (Do), temperate continental (Dc), temperate with humid winters (Df), temperate with dry winters (Dw), boreal (E)",
+    "photoperiod": "short day (<12 hours), neutral day (12-14 hours), long day (>14 hours)",
+    "killing_temp_during_rest": "-27",
+    "killing_temp_early_growth": "-1",
+    "abiotic_tolerance": "",
+    "abiotic_susceptibility": "",
+    "introduction_risks": "can become a weed"
+  },
+  "cultivation": {
+    "production_system": "",
+    "crop_cycle_min": "100",
+    "crop_cycle_max": "210",
+    "cropping_system": "",
+    "subsystem": "",
+    "companion_species": "",
+    "mechanization_level": "",
+    "labour_intensity": ""
+  },
+  "notes": "BRIEF DESCRIPTION A hardy, much branched, herbaceous legume with bright yellow flowers. USES It is used as pasture and hay, and to provide cover for banks, slopes, and borders and it is often planted for erosion control. GROWING PERIOD Perennial. In the United States it flowers from May to September in and number of cuttings per year varies from 1 in drier northern areas to 9 or more under irrigation in southern areas. COMMON NAMES Sickle medick, Yellow lucerne, Sickle alfalfa, Luzerne jaune, Luzerne sauvage, Yellow-flowered alfafa. FURTHER INF Scientific synonyms: M. borealis, M. romanica, M. sativa ssp falcata. The species is indigenous to northern Asia and is adapted to a cold-continental climate. The seed needs to be inoculated with an effective strain of Rhizobium meliloti which require a soil pH of at least 6.0. Lime-coated, inoculated seed has been used with success on more acid soils. It is often found as a weed."
+}

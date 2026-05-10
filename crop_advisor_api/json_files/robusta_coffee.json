@@ -1,0 +1,94 @@
+{
+  "common_name": "robusta coffee",
+  "scientific_name": "Coffea canephora",
+  "description": {
+    "life_form": "shrub",
+    "physiology": "evergreen, multi stem",
+    "habit": "erect",
+    "category": "materials, medicinals & aromatic",
+    "life_span": "perennial",
+    "plant_attributes": "grown on large scale"
+  },
+  "ecology": {
+    "temperature": {
+      "opt_min": "20",
+      "opt_max": "30",
+      "abs_min": "12",
+      "abs_max": "36"
+    },
+    "rainfall_annual": {
+      "opt_min": "1700",
+      "opt_max": "3000",
+      "abs_min": "900",
+      "abs_max": "4000"
+    },
+    "latitude": {
+      "opt_min": "-",
+      "opt_max": "-",
+      "abs_min": "11",
+      "abs_max": "13"
+    },
+    "altitude": {
+      "opt_min": "---",
+      "opt_max": "---",
+      "abs_min": "-",
+      "abs_max": "1300"
+    },
+    "soil_ph": {
+      "opt_min": "5",
+      "opt_max": "6.3",
+      "abs_min": "4",
+      "abs_max": "8"
+    },
+    "light_intensity": {
+      "opt_min": "clear skies",
+      "opt_max": "cloudy skies",
+      "abs_min": "very bright",
+      "abs_max": "light shade"
+    },
+    "soil_depth": {
+      "optimal": "medium (50-150 cm)",
+      "absolute": "shallow (20-50 cm)"
+    },
+    "soil_texture": {
+      "optimal": "heavy, medium",
+      "absolute": "heavy, medium, light"
+    },
+    "soil_fertility": {
+      "optimal": "high",
+      "absolute": "low"
+    },
+    "soil_al_tox": {
+      "optimal": "",
+      "absolute": ""
+    },
+    "soil_salinity": {
+      "optimal": "low (<4 dS/m)",
+      "absolute": "low (<4 dS/m)"
+    },
+    "soil_drainage": {
+      "optimal": "well (dry spells)",
+      "absolute": "poorly (saturated >50% of year), well (dry spells)"
+    }
+  },
+  "climate": {
+    "climate_zone": "tropical wet & dry (Aw)",
+    "photoperiod": "short day (<12 hours), neutral day (12-14 hours)",
+    "killing_temp_during_rest": "5",
+    "killing_temp_early_growth": "5",
+    "abiotic_tolerance": "",
+    "abiotic_susceptibility": "",
+    "introduction_risks": ""
+  },
+  "cultivation": {
+    "production_system": "",
+    "crop_cycle_min": "270",
+    "crop_cycle_max": "300",
+    "cropping_system": "",
+    "subsystem": "",
+    "companion_species": "",
+    "mechanization_level": "",
+    "labour_intensity": ""
+  },
+  "notes": "BRIEF DESCRIPTION A shrub or small tree reaching a height of 2-9 m. It often has a large umbrella shaped growth habit. Berries are small, red when ripe. USES Beans are used in the production of instant coffee. Mentioned as a useful agroforestry species. KILLING T 5-7°C are the lowest temperatures tolerated for long periods. More sensitive to cold than C. arabica, and killed by frosts. GROWING PERIOD Perennial. Begin to bear in 3-4 years, yield increases to 14 years, and the economic life of the plant is 20-80 years (average 50 years), with declining yields. The tree may live as long as a hundred years. Growth cycle 270-300 days. It may tolerate 21-30 days of mild drought. COMMON NAMES Coffee robusta, Congo kafe, Cafe, Kaffee. FURTHER INF Scientific synonym: C. robusta. Robusta coffee is native of West Africa and the equatorial African rain forests. It can be grown at altitudes of about 1100-1300 m in equatorial regions, and down to sea level at 11°N and 13°S, which is also its the normal latitudinal range. Robosta is a more vigorous and hardier species than arabica. Photosynthesis pathway C3. With to much rainfall the plant tends to develop wood at the expense of flowers and fruits. One to 2 months of less than 50 mm rain facilitates uniform flowering. Heavy rain during and after harvest is not desirable. It will only flower when days are 13 hours or shorter. For best growth and development the relative humidity should be between 70 and 90% and periods of mist and low clouds are beneficial, but require a drier period of 1-2 months for initiation of flower buds. Neither lack of wind nor strong winds are desirable. Strong, dry, hot or cold winds, hail and heavy rain cause damage. The species can be grown in shallow soils in high rainfall areas and will stand temporary waterlogging. Well managed plantations may produce up to 2 t/ha of fresh berries."
+}

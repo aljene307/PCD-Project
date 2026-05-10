@@ -1,0 +1,94 @@
+{
+  "common_name": "gram",
+  "scientific_name": "Brachiaria mutica",
+  "description": {
+    "life_form": "grass",
+    "physiology": "multi stem",
+    "habit": "erect",
+    "category": "forage/pasture, weed",
+    "life_span": "perennial",
+    "plant_attributes": "grown on small scale, harvested from wild"
+  },
+  "ecology": {
+    "temperature": {
+      "opt_min": "21",
+      "opt_max": "30",
+      "abs_min": "15",
+      "abs_max": "46"
+    },
+    "rainfall_annual": {
+      "opt_min": "1200",
+      "opt_max": "2000",
+      "abs_min": "900",
+      "abs_max": "4100"
+    },
+    "latitude": {
+      "opt_min": "-",
+      "opt_max": "-",
+      "abs_min": "27",
+      "abs_max": "27"
+    },
+    "altitude": {
+      "opt_min": "---",
+      "opt_max": "---",
+      "abs_min": "-",
+      "abs_max": "1000"
+    },
+    "soil_ph": {
+      "opt_min": "5",
+      "opt_max": "6",
+      "abs_min": "4.3",
+      "abs_max": "7.7"
+    },
+    "light_intensity": {
+      "opt_min": "very bright",
+      "opt_max": "clear skies",
+      "abs_min": "very bright",
+      "abs_max": "light shade"
+    },
+    "soil_depth": {
+      "optimal": "medium (50-150 cm)",
+      "absolute": "shallow (20-50 cm)"
+    },
+    "soil_texture": {
+      "optimal": "heavy, medium, light",
+      "absolute": "heavy, medium, light"
+    },
+    "soil_fertility": {
+      "optimal": "high",
+      "absolute": "moderate"
+    },
+    "soil_al_tox": {
+      "optimal": "",
+      "absolute": ""
+    },
+    "soil_salinity": {
+      "optimal": "low (<4 dS/m)",
+      "absolute": "medium (4-10 dS/m)"
+    },
+    "soil_drainage": {
+      "optimal": "poorly (saturated >50% of year)",
+      "absolute": "poorly (saturated >50% of year), well (dry spells)"
+    }
+  },
+  "climate": {
+    "climate_zone": "tropical wet & dry (Aw), tropical wet (Ar), subtropical humid (Cf)",
+    "photoperiod": "short day (<12 hours)",
+    "killing_temp_during_rest": "8",
+    "killing_temp_early_growth": "0",
+    "abiotic_tolerance": "flooding",
+    "abiotic_susceptibility": "",
+    "introduction_risks": "can become a weed"
+  },
+  "cultivation": {
+    "production_system": "",
+    "crop_cycle_min": "120",
+    "crop_cycle_max": "150",
+    "cropping_system": "",
+    "subsystem": "",
+    "companion_species": "",
+    "mechanization_level": "",
+    "labour_intensity": ""
+  },
+  "notes": "BRIEF DESCRIPTION A short-culmed, stoloniferous grass up to 200 cm tall with long, hairy leaf-blades about 16 mm wide. USES Mostly used for silage, it provides good fodder but is poor pasture and can be damaged by to low cutting or grazing. GROWING PERIOD Summer-growing perennial. COMMON NAMES Para grass, Mauritius signal grass, Pasto para and malojilla, Gramalote, Parana, Herbe de para, Rumput malela, sukut kolonjono, Jukut inggris, Rumput melela, Rumput para, Babaka-nalabaga, Mara-kawayan, Smau koo, Ya khon, Co'long tay. FURTHER INF Scientific synonyms: B. purpurascens, Panicum muticum, P. purpurascens. Para grass probably originated in tropical Africa. In the southern hemisphere it extends south to about 27°S. It can be found at elevations between sea level and 1000 m. It is found on poorly-drained or swampy soils and it can become a weed in irrigation ditches and drains. Dry matter yields may vary between 10-30 t/ha."
+}

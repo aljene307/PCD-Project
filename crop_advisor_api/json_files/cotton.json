@@ -1,0 +1,94 @@
+{
+  "common_name": "cotton",
+  "scientific_name": "Ceiba pentandra",
+  "description": {
+    "life_form": "tree",
+    "physiology": "deciduous, single stem",
+    "habit": "erect",
+    "category": "forage/pasture, fruits & nuts, materials, forest/wood, environmental",
+    "life_span": "perennial",
+    "plant_attributes": "grown on small scale"
+  },
+  "ecology": {
+    "temperature": {
+      "opt_min": "17",
+      "opt_max": "38",
+      "abs_min": "12",
+      "abs_max": "40"
+    },
+    "rainfall_annual": {
+      "opt_min": "1500",
+      "opt_max": "2500",
+      "abs_min": "750",
+      "abs_max": "3000"
+    },
+    "latitude": {
+      "opt_min": "-",
+      "opt_max": "-",
+      "abs_min": "15",
+      "abs_max": "30"
+    },
+    "altitude": {
+      "opt_min": "---",
+      "opt_max": "---",
+      "abs_min": "-",
+      "abs_max": "900"
+    },
+    "soil_ph": {
+      "opt_min": "5.5",
+      "opt_max": "6.5",
+      "abs_min": "5",
+      "abs_max": "7.5"
+    },
+    "light_intensity": {
+      "opt_min": "very bright",
+      "opt_max": "very bright",
+      "abs_min": "very bright",
+      "abs_max": "clear skies"
+    },
+    "soil_depth": {
+      "optimal": "deep (>>150 cm)",
+      "absolute": "medium (50-150 cm)"
+    },
+    "soil_texture": {
+      "optimal": "medium",
+      "absolute": "medium, light"
+    },
+    "soil_fertility": {
+      "optimal": "high",
+      "absolute": "moderate"
+    },
+    "soil_al_tox": {
+      "optimal": "",
+      "absolute": ""
+    },
+    "soil_salinity": {
+      "optimal": "low (<4 dS/m)",
+      "absolute": "medium (4-10 dS/m)"
+    },
+    "soil_drainage": {
+      "optimal": "well (dry spells)",
+      "absolute": "well (dry spells)"
+    }
+  },
+  "climate": {
+    "climate_zone": "tropical wet & dry (Aw), tropical wet (Ar)",
+    "photoperiod": "short day (<12 hours), neutral day (12-14 hours), long day (>14 hours)",
+    "killing_temp_during_rest": "-1",
+    "killing_temp_early_growth": "-1",
+    "abiotic_tolerance": "",
+    "abiotic_susceptibility": "",
+    "introduction_risks": ""
+  },
+  "cultivation": {
+    "production_system": "",
+    "crop_cycle_min": "270",
+    "crop_cycle_max": "330",
+    "cropping_system": "",
+    "subsystem": "",
+    "companion_species": "",
+    "mechanization_level": "",
+    "labour_intensity": ""
+  },
+  "notes": "BRIEF DESCRIPTION A small to medium sized deciduous tree usually reaching a height of 10-30 m but var. caribaea can become 70 m tall. The trunk is broad with small buttresses at the base. The bark is gray and some varieties are covered with rounded spines. The branches are spreading and almost horizontical. USES The seeds yield buoyant and water-repellent fiber used in insulation and stuffing. The fiber is a low thermal conductor and excellent for absorbing sound. The fiber is also spun into yarn and textiles. The seeds yields an edible oil used in cooking, lubricants, and soaps. The expressed oil cake can be fed to livestock. The wood is soft, light, and used to make canoes, stools, and furniture. Mentioned as a useful agroforestry species.\nGROWING PERIOD Fast-growing perennial. Begin to bear after 4-5 years and yields increase to about 8 years. Economical life about 60 years. COMMON NAMES Kapok, Silk cotton tree. FURTHER INF Scientific synonyms: Eriodendron anfractosum, Bombax pendrantum. Cultivated kapok is believed to be a natural hybrid between to varieties respectively native of tropical America and West Africa. Night temperatures below 17-20°C retard germination of the pollen grains. This usually limits the area in which good crops can be grown to latitudes between 15°N and 15°S. It is however also found on the Canary Islands."
+}

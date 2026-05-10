@@ -1,0 +1,94 @@
+{
+  "common_name": "groundnut",
+  "scientific_name": "Apios americana",
+  "description": {
+    "life_form": "herb, vine",
+    "physiology": "deciduous, multi stem",
+    "habit": "climber/scrambler/scadent",
+    "category": "roots/tubers, vegetables",
+    "life_span": "perennial",
+    "plant_attributes": ""
+  },
+  "ecology": {
+    "temperature": {
+      "opt_min": "10",
+      "opt_max": "20",
+      "abs_min": "8",
+      "abs_max": "30"
+    },
+    "rainfall_annual": {
+      "opt_min": "1000",
+      "opt_max": "1200",
+      "abs_min": "700",
+      "abs_max": "1500"
+    },
+    "latitude": {
+      "opt_min": "30",
+      "opt_max": "25",
+      "abs_min": "45",
+      "abs_max": "48"
+    },
+    "altitude": {
+      "opt_min": "---",
+      "opt_max": "---",
+      "abs_min": "-",
+      "abs_max": "1000"
+    },
+    "soil_ph": {
+      "opt_min": "5",
+      "opt_max": "7.5",
+      "abs_min": "4.5",
+      "abs_max": "8.5"
+    },
+    "light_intensity": {
+      "opt_min": "clear skies",
+      "opt_max": "very bright",
+      "abs_min": "light shade",
+      "abs_max": "very bright"
+    },
+    "soil_depth": {
+      "optimal": "medium (50-150 cm)",
+      "absolute": "medium (50-150 cm)"
+    },
+    "soil_texture": {
+      "optimal": "medium",
+      "absolute": "medium, light"
+    },
+    "soil_fertility": {
+      "optimal": "high",
+      "absolute": "moderate"
+    },
+    "soil_al_tox": {
+      "optimal": "",
+      "absolute": ""
+    },
+    "soil_salinity": {
+      "optimal": "low (<4 dS/m)",
+      "absolute": "low (<4 dS/m)"
+    },
+    "soil_drainage": {
+      "optimal": "well (dry spells)",
+      "absolute": "poorly (saturated >50% of year), well (dry spells)"
+    }
+  },
+  "climate": {
+    "climate_zone": "subtropical humid (Cf), temperate oceanic (Do), boreal (E)",
+    "photoperiod": "",
+    "killing_temp_during_rest": "-40",
+    "killing_temp_early_growth": "0",
+    "abiotic_tolerance": "",
+    "abiotic_susceptibility": "",
+    "introduction_risks": "can become a weed"
+  },
+  "cultivation": {
+    "production_system": "",
+    "crop_cycle_min": "0",
+    "crop_cycle_max": "0",
+    "cropping_system": "",
+    "subsystem": "",
+    "companion_species": "",
+    "mechanization_level": "",
+    "labour_intensity": ""
+  },
+  "notes": "It is a perennial leguminous vine growing 1-6 m in length. Leaves are alternate, odd-pinnately compound, usually with 5 to 7 leaflets. The flowers are usually pink, maroon or brownish-red. They have typical papilionoid legume structure, are about 12 mm long and occur in compact racemes 75 to 130 mm in length. The fruit are 50 to 130 mm long containing six to thirteen wrinkled brown seeds. The brown-skinned, white-fleshed tubers are on underground stems (rhizomes) in branched or unbranched series. They can vary in diameter from 1-20 cm. The plant is able to fix nitrogen. USE: The tubers, which are high in protein and starch, may be used for food after cooking. The large seeds are similar to peas, and are also edible. The Native Americans in what is now eastern United States made extensive use of the plant. It contains some antinutrition factors, such as trypsin inhibitors, so it should be cooked before being eaten. A few people have shown an allergic reaction from eating apios. GROWING PERIOD: Perennial. COMMON NAMES: Apios. FURTHER INF: It is native of eastern North bAmerica. The vine is killed by frost but the tubers survive winters even into southern Canada. In the wild, they are found mainly in low damp bottomland or riparian woods and thickets growing on brush for support, but may be grown in cultivated fields without support. It is better to grow on a trellis if seed production is desired. Unfortunately, it can become a serious weed in cranberry plots."
+}

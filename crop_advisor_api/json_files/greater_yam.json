@@ -1,0 +1,94 @@
+{
+  "common_name": "greater yam",
+  "scientific_name": "Dioscorea alata",
+  "description": {
+    "life_form": "vine",
+    "physiology": "deciduous, multi stem",
+    "habit": "climber/scrambler/scadent",
+    "category": "roots/tubers, environmental",
+    "life_span": "perennial",
+    "plant_attributes": "grown on large scale, grown on small scale"
+  },
+  "ecology": {
+    "temperature": {
+      "opt_min": "20",
+      "opt_max": "32",
+      "abs_min": "14",
+      "abs_max": "40"
+    },
+    "rainfall_annual": {
+      "opt_min": "1200",
+      "opt_max": "4000",
+      "abs_min": "700",
+      "abs_max": "8000"
+    },
+    "latitude": {
+      "opt_min": "-",
+      "opt_max": "-",
+      "abs_min": "30",
+      "abs_max": "40"
+    },
+    "altitude": {
+      "opt_min": "---",
+      "opt_max": "---",
+      "abs_min": "-",
+      "abs_max": "2500"
+    },
+    "soil_ph": {
+      "opt_min": "5.5",
+      "opt_max": "6.5",
+      "abs_min": "4.8",
+      "abs_max": "8.5"
+    },
+    "light_intensity": {
+      "opt_min": "very bright",
+      "opt_max": "clear skies",
+      "abs_min": "very bright",
+      "abs_max": "light shade"
+    },
+    "soil_depth": {
+      "optimal": "deep (>>150 cm)",
+      "absolute": "medium (50-150 cm)"
+    },
+    "soil_texture": {
+      "optimal": "medium, light",
+      "absolute": "medium, light"
+    },
+    "soil_fertility": {
+      "optimal": "high",
+      "absolute": "moderate"
+    },
+    "soil_al_tox": {
+      "optimal": "",
+      "absolute": ""
+    },
+    "soil_salinity": {
+      "optimal": "low (<4 dS/m)",
+      "absolute": "low (<4 dS/m)"
+    },
+    "soil_drainage": {
+      "optimal": "well (dry spells)",
+      "absolute": "well (dry spells)"
+    }
+  },
+  "climate": {
+    "climate_zone": "tropical wet & dry (Aw), tropical wet (Ar), subtropical humid (Cf), subtropical dry summer (Cs)",
+    "photoperiod": "short day (<12 hours)",
+    "killing_temp_during_rest": "-2",
+    "killing_temp_early_growth": "9",
+    "abiotic_tolerance": "",
+    "abiotic_susceptibility": "",
+    "introduction_risks": ""
+  },
+  "cultivation": {
+    "production_system": "",
+    "crop_cycle_min": "220",
+    "crop_cycle_max": "300",
+    "cropping_system": "",
+    "subsystem": "",
+    "companion_species": "",
+    "mechanization_level": "",
+    "labour_intensity": ""
+  },
+  "notes": "BRIEF DESCRIPTION It has a thin, twining, winged but spineless stem, broad leaves, and a shallow fibrous root system. The vine may reach a lenght of 2-30 m. Tubers usually weigh 5-10 kg but up to 60 kg have been recorded. USES The roots are baked, boiled, roasted, fried, or used raw as a salad vegetable. The roots are a good source of carbohydrates. GROWING PERIOD Perennial, if cultivated tubers may be harvested (220-240)-300 days from planting. The tubers have a dormancy period of 120-160 days. COMMON NAMES Greater yam, Yam, White yam, Winged yam, Water yam, Ten months yam, Water yam, Asiatic yam, Igname, Igname de Chine, Name, Kachil, Katula, Ratula, Sakourou,Khanulu, Ubi kemali, Ovy, Uwi, Obbi, Oewi, Oowi kelapa, Ubi. FURTHER INF Scientific synonyms: D. atropurpurea, D. purpurea, D. sativa, D. vul- garis, D. javanica. Greater yam can be grow in the tropics at elevation between 15-1000 m, although some cultivars have been reported to thrive at elevations up to about 2500 m. The common latitudinal range is 23°N to 20°S. It can grow in both dry and humid areas. A daylength of less than 12 hours is required for tuberization, but daylengths longer than 12 hours are necessary for adequate vine development. The species is indigenous to South-East Asia. Yields between 7-25 t/ha have been recorded. Mentioned as a useful agroforestry species."
+}

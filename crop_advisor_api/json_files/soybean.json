@@ -1,0 +1,94 @@
+{
+  "common_name": "soybean",
+  "scientific_name": "Glycine max",
+  "description": {
+    "life_form": "herb",
+    "physiology": "",
+    "habit": "erect",
+    "category": "pulses (grain legumes)",
+    "life_span": "annual",
+    "plant_attributes": "grown on large scale"
+  },
+  "ecology": {
+    "temperature": {
+      "opt_min": "20",
+      "opt_max": "33",
+      "abs_min": "10",
+      "abs_max": "38"
+    },
+    "rainfall_annual": {
+      "opt_min": "600",
+      "opt_max": "1500",
+      "abs_min": "450",
+      "abs_max": "1800"
+    },
+    "latitude": {
+      "opt_min": "-",
+      "opt_max": "-",
+      "abs_min": "47",
+      "abs_max": "52"
+    },
+    "altitude": {
+      "opt_min": "---",
+      "opt_max": "---",
+      "abs_min": "-",
+      "abs_max": "3000"
+    },
+    "soil_ph": {
+      "opt_min": "5.5",
+      "opt_max": "6.5",
+      "abs_min": "4.5",
+      "abs_max": "8.4"
+    },
+    "light_intensity": {
+      "opt_min": "very bright",
+      "opt_max": "very bright",
+      "abs_min": "very bright",
+      "abs_max": "clear skies"
+    },
+    "soil_depth": {
+      "optimal": "medium (50-150 cm)",
+      "absolute": "shallow (20-50 cm)"
+    },
+    "soil_texture": {
+      "optimal": "medium, organic",
+      "absolute": "heavy, medium, light"
+    },
+    "soil_fertility": {
+      "optimal": "high",
+      "absolute": "low"
+    },
+    "soil_al_tox": {
+      "optimal": "",
+      "absolute": ""
+    },
+    "soil_salinity": {
+      "optimal": "low (<4 dS/m)",
+      "absolute": "medium (4-10 dS/m)"
+    },
+    "soil_drainage": {
+      "optimal": "well (dry spells)",
+      "absolute": "poorly (saturated >50% of year), well (dry spells), excessive (dry/moderately dry)"
+    }
+  },
+  "climate": {
+    "climate_zone": "tropical wet & dry (Aw), steppe or semiarid (Bs), subtropical dry summer (Cs)",
+    "photoperiod": "short day (<12 hours)",
+    "killing_temp_during_rest": "no input",
+    "killing_temp_early_growth": "no input",
+    "abiotic_tolerance": "",
+    "abiotic_susceptibility": "",
+    "introduction_risks": ""
+  },
+  "cultivation": {
+    "production_system": "",
+    "crop_cycle_min": "75",
+    "crop_cycle_max": "180",
+    "cropping_system": "",
+    "subsystem": "",
+    "companion_species": "",
+    "mechanization_level": "",
+    "labour_intensity": ""
+  },
+  "notes": "A bushy herbaceous legume reaching a height of 20-180 cm. USES: The bean pods and seeds are a source of oil and protein. Fermented pods are used to make soy sauce and other sauces. The seeds are a good source of vitamin B and are dried to produce soya milk. The seeds are ground and used in food. A semi-drying oil is extracted from the seeds and used in margarine, shortening, salad oils and as a wetting and stabilizing agent in food, cosmetics, and pharmaceutical products. The oil is also used in paints, linoleum, oilcloths, printing inks, soaps, insecticides, disinfectants and as a bio-fuel. After oil extraction, the soya meal can be used for manufacturing of fiber, adhesives, and textiles. The plant can also be grown as a cover crop and used for pasture, fodder, hay and silage. GROWING PERIOD: Annual herb, growing 75-130 days or 140-180 days, depending on variety. Soybean is a warm-season crop. COMMON NAMES Soya bean, Soybean, Soja, Sojabohn, Sjoaboon, Too-a leu-ang, Tua luang, Utaw, Wong Tau, Coffee bean, Japan bean, Soya, Strock pea, Ta teou, Poi oleagineux de chine, Katjang-boeloc, Daizu, Soya mocchai, Tae-too, Bhatwas, Hwang teou. FURTHER INF.: Scientific synonyms: G. soja, G. hispida, Soja max. In the tropics soya bean is grown at elevations between sea level and 3000 m. The cultivation extends from 52° N to the tropics. Soya bean is very sensitive to photoperiod, a variation of 15 minutes in day length may be sufficient to inhibit flower development in a specific variety. Generally most cultivars bloom when the day-length is less than 14 hours though some will except up to 16 hours. Very short days (12 hours or less) lead to premature flowering and low yields. Soya bean is best adapted to moderate humidity, but have a fairly wide range. Photosynthesis pathway C 3 II. Inoculation with nitrogen-fixing bacteria is desirable if the crop is taken to a new area, the strain Rhizobium japonicum being specific to soya bean. In the United States 2.5 t/ha is a good yield, 5 t/ha have been achieved and an average yield in the tropics is about 1 t/ha. Mentioned as a useful agroforestry species."
+}

@@ -1,0 +1,94 @@
+{
+  "common_name": "wheat",
+  "scientific_name": "Agropyron cristatum",
+  "description": {
+    "life_form": "grass",
+    "physiology": "",
+    "habit": "erect",
+    "category": "forage/pasture, environmental",
+    "life_span": "perennial",
+    "plant_attributes": "grown on small scale"
+  },
+  "ecology": {
+    "temperature": {
+      "opt_min": "15",
+      "opt_max": "25",
+      "abs_min": "5",
+      "abs_max": "45"
+    },
+    "rainfall_annual": {
+      "opt_min": "250",
+      "opt_max": "400",
+      "abs_min": "100",
+      "abs_max": "1000"
+    },
+    "latitude": {
+      "opt_min": "-",
+      "opt_max": "-",
+      "abs_min": "-",
+      "abs_max": "-"
+    },
+    "altitude": {
+      "opt_min": "---",
+      "opt_max": "---",
+      "abs_min": "-",
+      "abs_max": "2800"
+    },
+    "soil_ph": {
+      "opt_min": "5.5",
+      "opt_max": "6.5",
+      "abs_min": "4",
+      "abs_max": "8.5"
+    },
+    "light_intensity": {
+      "opt_min": "very bright",
+      "opt_max": "clear skies",
+      "abs_min": "very bright",
+      "abs_max": "light shade"
+    },
+    "soil_depth": {
+      "optimal": "medium (50-150 cm)",
+      "absolute": "shallow (20-50 cm)"
+    },
+    "soil_texture": {
+      "optimal": "medium, light",
+      "absolute": "heavy, medium, light, organic"
+    },
+    "soil_fertility": {
+      "optimal": "moderate",
+      "absolute": "low"
+    },
+    "soil_al_tox": {
+      "optimal": "",
+      "absolute": ""
+    },
+    "soil_salinity": {
+      "optimal": "low (<4 dS/m)",
+      "absolute": "medium (4-10 dS/m)"
+    },
+    "soil_drainage": {
+      "optimal": "well (dry spells)",
+      "absolute": "poorly (saturated >50% of year), well (dry spells), excessive (dry/moderately dry)"
+    }
+  },
+  "climate": {
+    "climate_zone": "desert or arid (Bw), steppe or semiarid (Bs), temperate oceanic (Do), temperate continental (Dc), temperate with humid winters (Df), temperate with dry winters (Dw), boreal (E)",
+    "photoperiod": "long day (>14 hours)",
+    "killing_temp_during_rest": "-35",
+    "killing_temp_early_growth": "0",
+    "abiotic_tolerance": "",
+    "abiotic_susceptibility": "",
+    "introduction_risks": ""
+  },
+  "cultivation": {
+    "production_system": "",
+    "crop_cycle_min": "90",
+    "crop_cycle_max": "240",
+    "cropping_system": "",
+    "subsystem": "",
+    "companion_species": "",
+    "mechanization_level": "",
+    "labour_intensity": ""
+  },
+  "notes": "BRIEF DESCRIPTION A tufted bunchgrass reaching a height of up to 60 cm. USES Used for regrassing abandoned and depleted croplands, and used for pasture. KILLING T Very frost resistant. GROWING PERIOD Long-lived perennial. Productive stands can be up to 20-35 years old. COMMON NAMES\nCrested wheatgrass (Fairway), Fairway crested wheatgrass. FURTHER INF Scientific synonym: Bromus cristatum. Have certain winter requirements. In the subtropics the plant is adapted to altitudes between 1500-2800 m."
+}

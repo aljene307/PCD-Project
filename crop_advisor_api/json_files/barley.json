@@ -1,0 +1,94 @@
+{
+  "common_name": "barley",
+  "scientific_name": "Hordeum bulbosum",
+  "description": {
+    "life_form": "grass",
+    "physiology": "multi stem",
+    "habit": "erect",
+    "category": "cereals & pseudocereals",
+    "life_span": "perennial",
+    "plant_attributes": "harvested from wild"
+  },
+  "ecology": {
+    "temperature": {
+      "opt_min": "13",
+      "opt_max": "23",
+      "abs_min": "3",
+      "abs_max": "35"
+    },
+    "rainfall_annual": {
+      "opt_min": "400",
+      "opt_max": "600",
+      "abs_min": "300",
+      "abs_max": "1200"
+    },
+    "latitude": {
+      "opt_min": "30",
+      "opt_max": "30",
+      "abs_min": "50",
+      "abs_max": "50"
+    },
+    "altitude": {
+      "opt_min": "---",
+      "opt_max": "---",
+      "abs_min": "-",
+      "abs_max": "-"
+    },
+    "soil_ph": {
+      "opt_min": "5.5",
+      "opt_max": "7",
+      "abs_min": "4.8",
+      "abs_max": "8.2"
+    },
+    "light_intensity": {
+      "opt_min": "very bright",
+      "opt_max": "very bright",
+      "abs_min": "very bright",
+      "abs_max": "clear skies"
+    },
+    "soil_depth": {
+      "optimal": "deep (>>150 cm)",
+      "absolute": "medium (50-150 cm)"
+    },
+    "soil_texture": {
+      "optimal": "heavy, medium",
+      "absolute": "heavy, medium, light"
+    },
+    "soil_fertility": {
+      "optimal": "moderate",
+      "absolute": "moderate"
+    },
+    "soil_al_tox": {
+      "optimal": "",
+      "absolute": ""
+    },
+    "soil_salinity": {
+      "optimal": "low (<4 dS/m)",
+      "absolute": "low (<4 dS/m)"
+    },
+    "soil_drainage": {
+      "optimal": "well (dry spells)",
+      "absolute": "well (dry spells), excessive (dry/moderately dry)"
+    }
+  },
+  "climate": {
+    "climate_zone": "tropical wet & dry (Aw), tropical wet (Ar), steppe or semiarid (Bs), subtropical dry summer (Cs), temperate oceanic (Do), temperate continental (Dc), temperate with humid winters (Df), temperate with dry winters (Dw)",
+    "photoperiod": "short day (<12 hours), neutral day (12-14 hours), long day (>14 hours)",
+    "killing_temp_during_rest": "-5",
+    "killing_temp_early_growth": "0",
+    "abiotic_tolerance": "",
+    "abiotic_susceptibility": "",
+    "introduction_risks": ""
+  },
+  "cultivation": {
+    "production_system": "",
+    "crop_cycle_min": "120",
+    "crop_cycle_max": "150",
+    "cropping_system": "",
+    "subsystem": "",
+    "companion_species": "",
+    "mechanization_level": "",
+    "labour_intensity": ""
+  },
+  "notes": "BRIEF DESCRIPTION A heavy tillering grass reaching a height of 80-150 cm. It develop tillers from bulbils at or below the soil surface. USES The grain is mainly used for malting and as a food source. GROWING PERIOD Perennial. The seeds germinate very quickly after planting, often wth only 20-30 mm of rainfall. COMMON NAMES Bulbous barley, Bulbous wild barley, Orge bulbeuse, Kurram, Kurraym, Subbeil, Qurram, Barley grass, Wild barley, Sha'ir barri. FURTHER INF Scientific synonyms: H. nodosum. Bulbous barley is native of the Mediterranean region. Average dry matter yields for fodder is 0.9-2.6 t/ha. Seed yields may be 200-400 kg/ha."
+}

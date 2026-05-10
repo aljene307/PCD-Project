@@ -1,0 +1,94 @@
+{
+  "common_name": "citrus",
+  "scientific_name": "Citrus aurantium",
+  "description": {
+    "life_form": "tree",
+    "physiology": "evergreen, single stem",
+    "habit": "erect",
+    "category": "fruits & nuts, materials, medicinals & aromatic",
+    "life_span": "perennial",
+    "plant_attributes": "grown on large scale"
+  },
+  "ecology": {
+    "temperature": {
+      "opt_min": "25",
+      "opt_max": "30",
+      "abs_min": "12",
+      "abs_max": "42"
+    },
+    "rainfall_annual": {
+      "opt_min": "1200",
+      "opt_max": "1400",
+      "abs_min": "350",
+      "abs_max": "2000"
+    },
+    "latitude": {
+      "opt_min": "-",
+      "opt_max": "-",
+      "abs_min": "30",
+      "abs_max": "40"
+    },
+    "altitude": {
+      "opt_min": "---",
+      "opt_max": "---",
+      "abs_min": "-",
+      "abs_max": "1000"
+    },
+    "soil_ph": {
+      "opt_min": "6",
+      "opt_max": "7",
+      "abs_min": "5.5",
+      "abs_max": "8.3"
+    },
+    "light_intensity": {
+      "opt_min": "very bright",
+      "opt_max": "very bright",
+      "abs_min": "very bright",
+      "abs_max": "clear skies"
+    },
+    "soil_depth": {
+      "optimal": "deep (>>150 cm)",
+      "absolute": "medium (50-150 cm)"
+    },
+    "soil_texture": {
+      "optimal": "medium, light",
+      "absolute": "heavy, medium, light"
+    },
+    "soil_fertility": {
+      "optimal": "moderate",
+      "absolute": "low"
+    },
+    "soil_al_tox": {
+      "optimal": "",
+      "absolute": ""
+    },
+    "soil_salinity": {
+      "optimal": "low (<4 dS/m)",
+      "absolute": "low (<4 dS/m)"
+    },
+    "soil_drainage": {
+      "optimal": "well (dry spells)",
+      "absolute": "poorly (saturated >50% of year), well (dry spells), excessive (dry/moderately dry)"
+    }
+  },
+  "climate": {
+    "climate_zone": "tropical wet & dry (Aw), steppe or semiarid (Bs), subtropical humid (Cf), subtropical dry summer (Cs), subtropical dry winter (Cw)",
+    "photoperiod": "short day (<12 hours), neutral day (12-14 hours), long day (>14 hours)",
+    "killing_temp_during_rest": "no input",
+    "killing_temp_early_growth": "no input",
+    "abiotic_tolerance": "",
+    "abiotic_susceptibility": "",
+    "introduction_risks": ""
+  },
+  "cultivation": {
+    "production_system": "",
+    "crop_cycle_min": "140",
+    "crop_cycle_max": "330",
+    "cropping_system": "",
+    "subsystem": "",
+    "companion_species": "",
+    "mechanization_level": "",
+    "labour_intensity": ""
+  },
+  "notes": "BRIEF DESCRIPTION A small evergreen, thorny tree up to 10 m high. The flowers are large and white and the fruit is globose, often bright orange-red when ripe. USES The fruit, leaves, and flowers yield a volatile bigarade oil used in flavoring, liqueurs, perfumes, and medicines. The fruit is used in marmelades. An oil is extracted from the fruit peel and used as a flavor in bakery, soft drinks, candies, and also in cosmetic waters and perfumes. The leaves and flowers have medicinal properties. An infusion of the leaves and flowers have sedative qualities. The tree is often used as a root stock for lemon, sweet orange, and grapefruit. KILLING T -5°C to -10°C. GROWING PERIOD Perennial. It begins to bear from 3 years of age, yields increase to aboute 8 years and the economic life is 25-30 years. COMMON NAMES Sour orange, Seville orange, Bitter orange, Orange amere, Bigarada, Bigarade, Bigaradier, Naranja amarga, Amarga, Naranja agria, Arancia amarga, Arancio amaro, Melangolo, Sevilla orange, Orange de Seville, Pomeranze, Lemon itam, Limau samar, Cabuso, Krooch loviing, Som. FURTHER INF Sour orange is native of Southeast Asia. In the tropics best adapted to elevations above 500 m. (See also under Citrus ssp.) Mentioned as a useful agroforestry species."
+}

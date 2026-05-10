@@ -1,0 +1,94 @@
+{
+  "common_name": "tomato",
+  "scientific_name": "Cyphomandra betacea",
+  "description": {
+    "life_form": "herb, shrub, tree",
+    "physiology": "single stem, multi stem",
+    "habit": "erect",
+    "category": "fruits & nuts, materials, medicinals & aromatic",
+    "life_span": "perennial",
+    "plant_attributes": "grown on large scale, grown on small scale"
+  },
+  "ecology": {
+    "temperature": {
+      "opt_min": "16",
+      "opt_max": "22",
+      "abs_min": "10",
+      "abs_max": "30"
+    },
+    "rainfall_annual": {
+      "opt_min": "2000",
+      "opt_max": "2600",
+      "abs_min": "600",
+      "abs_max": "4000"
+    },
+    "latitude": {
+      "opt_min": "-",
+      "opt_max": "-",
+      "abs_min": "10",
+      "abs_max": "40"
+    },
+    "altitude": {
+      "opt_min": "---",
+      "opt_max": "---",
+      "abs_min": "-",
+      "abs_max": "2800"
+    },
+    "soil_ph": {
+      "opt_min": "6.3",
+      "opt_max": "7",
+      "abs_min": "5.8",
+      "abs_max": "7.5"
+    },
+    "light_intensity": {
+      "opt_min": "very bright",
+      "opt_max": "very bright",
+      "abs_min": "very bright",
+      "abs_max": "cloudy skies"
+    },
+    "soil_depth": {
+      "optimal": "shallow (20-50 cm)",
+      "absolute": "shallow (20-50 cm)"
+    },
+    "soil_texture": {
+      "optimal": "medium, light",
+      "absolute": "heavy, medium, light, organic"
+    },
+    "soil_fertility": {
+      "optimal": "high",
+      "absolute": "moderate"
+    },
+    "soil_al_tox": {
+      "optimal": "",
+      "absolute": ""
+    },
+    "soil_salinity": {
+      "optimal": "low (<4 dS/m)",
+      "absolute": "low (<4 dS/m)"
+    },
+    "soil_drainage": {
+      "optimal": "well (dry spells)",
+      "absolute": "well (dry spells)"
+    }
+  },
+  "climate": {
+    "climate_zone": "tropical wet & dry (Aw), tropical wet (Ar), subtropical humid (Cf)",
+    "photoperiod": "short day (<12 hours), neutral day (12-14 hours)",
+    "killing_temp_during_rest": "-2",
+    "killing_temp_early_growth": "-2",
+    "abiotic_tolerance": "",
+    "abiotic_susceptibility": "",
+    "introduction_risks": ""
+  },
+  "cultivation": {
+    "production_system": "home garden, large scale/commercial",
+    "crop_cycle_min": "270",
+    "crop_cycle_max": "330",
+    "cropping_system": "",
+    "subsystem": "",
+    "companion_species": "",
+    "mechanization_level": "",
+    "labour_intensity": ""
+  },
+  "notes": "BRIEF DESCRIPTION A fast-growing herbaceous shrub or small\ntree reaching 1-5 m or even up to 7.5 m in height with a\nshort trunk and thick branches. It usually forms a single\nupright trunk with spreading lateral branches. The leaves\nare large, shiny, hairy, prominently veined and pungent\nsmelling. The fruits are egg shaped, pointed at both ends,\n4-10 cm long and 3-5 cm wide. The skin colour may be yellow\nor orange to deep red or almost purple, while the flesh is\nyellowish, orange, deep red or purple. USES The unripe\nfruits are used in chutney, curry and hot dishes, while the\nmature fruits are used in stews, soups, stuffings, cakes,\njellies, jams, ice cream and in fruit salads or like\ntomatoes in sandwiches and green salads. It can also be\nused for a juice. In South America such juices are often\nblended with milk, ice and sugar to make tasty drinks. The\nfruit can also be cooked and eaten in stews, soups, baked\ngoods, releshes and sweet and savory sauces. It freeze\nwell. It is grown as a shade tree in poultry yards. Mention\nas a possible agroforestry species. KILLING T Temperatures\nof -2°C may kill all but the largest stems and branches.\nGROWING PERIOD Perennial. Normally, it begin bearing\nwithin 18 mont"
+}

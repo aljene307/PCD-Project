@@ -1,0 +1,94 @@
+{
+  "common_name": "buckwheat",
+  "scientific_name": "Fagopyrum esculentum",
+  "description": {
+    "life_form": "herb",
+    "physiology": "",
+    "habit": "erect",
+    "category": "cereals & pseudocereals, forage/pasture, vegetables, materials, cover crop",
+    "life_span": "annual",
+    "plant_attributes": "grown on large scale"
+  },
+  "ecology": {
+    "temperature": {
+      "opt_min": "17",
+      "opt_max": "27",
+      "abs_min": "7",
+      "abs_max": "40"
+    },
+    "rainfall_annual": {
+      "opt_min": "700",
+      "opt_max": "1000",
+      "abs_min": "400",
+      "abs_max": "1300"
+    },
+    "latitude": {
+      "opt_min": "-",
+      "opt_max": "-",
+      "abs_min": "60",
+      "abs_max": "60"
+    },
+    "altitude": {
+      "opt_min": "---",
+      "opt_max": "---",
+      "abs_min": "-",
+      "abs_max": "2000"
+    },
+    "soil_ph": {
+      "opt_min": "5",
+      "opt_max": "6.5",
+      "abs_min": "4.4",
+      "abs_max": "7.5"
+    },
+    "light_intensity": {
+      "opt_min": "very bright",
+      "opt_max": "clear skies",
+      "abs_min": "very bright",
+      "abs_max": "cloudy skies"
+    },
+    "soil_depth": {
+      "optimal": "medium (50-150 cm)",
+      "absolute": "shallow (20-50 cm)"
+    },
+    "soil_texture": {
+      "optimal": "medium, light",
+      "absolute": "medium, light"
+    },
+    "soil_fertility": {
+      "optimal": "moderate",
+      "absolute": "low"
+    },
+    "soil_al_tox": {
+      "optimal": "",
+      "absolute": ""
+    },
+    "soil_salinity": {
+      "optimal": "low (<4 dS/m)",
+      "absolute": "low (<4 dS/m)"
+    },
+    "soil_drainage": {
+      "optimal": "well (dry spells)",
+      "absolute": "well (dry spells)"
+    }
+  },
+  "climate": {
+    "climate_zone": "tropical wet & dry (Aw), steppe or semiarid (Bs), subtropical humid (Cf), subtropical dry summer (Cs), subtropical dry winter (Cw), temperate oceanic (Do), temperate continental (Dc), temperate with humid winters (Df), temperate with dry winters (Dw)",
+    "photoperiod": "short day (<12 hours), neutral day (12-14 hours), long day (>14 hours)",
+    "killing_temp_during_rest": "no input",
+    "killing_temp_early_growth": "no input",
+    "abiotic_tolerance": "",
+    "abiotic_susceptibility": "",
+    "introduction_risks": ""
+  },
+  "cultivation": {
+    "production_system": "large scale/commercial, protected cultivation",
+    "crop_cycle_min": "55",
+    "crop_cycle_max": "85",
+    "cropping_system": "",
+    "subsystem": "sole cropping",
+    "companion_species": "",
+    "mechanization_level": "",
+    "labour_intensity": ""
+  },
+  "notes": "BRIEF DESCRIPTION A herbaceous, erect, glabrous species reaching a height of 60-90 cm. USES The seed is ground into flour and provides stock and poultry feed, or it is roasted or boiled for food. Plants are grown for green manure. A medical substance, rutin, is obtained from the leaves and flowers. The flowers is a source of honey. GROWING PERIOD Summer growing annual herb. In cool areas 55-85 days is sufficient to mature a seed crop. COMMON NAMES Common buckwheat, Buckwheat, Trigo mourisco. FURTHER INF Common buckwheat can be grown at sea level in temperate regions and at high altitudes in the tropics. Hot drying temperatures and drying weather at blooming blast flowers and prevent seed formation. Common buckwheat does not grow well on heavy wet soils or high lime soils. Light sandy soils with a high nitrogen level may cause lodging and reduction in seed yields. Average seed yield in the United States is 0.9-1 t/ha, in Kenya 1 t/ha, and in Russia 1-1.3 t/ha, but up to 3.8-4 t/ha can be obtained."
+}
