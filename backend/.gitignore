@@ -1,0 +1,15 @@
+*.log
+*.tif
+*.xlsx
+*.pdf
+*.csv
+
+__pycache__/
+tests/.tmp/
+soilgrid_data/
+venv/
+
+dimension_json/
+hwsd_data/
+
+*.db
