@@ -270,7 +270,7 @@ class LabMeasurement {
 }
 
 class ApiService {
-  static const _base = 'https://lafayette-classifieds-settlement-parish.trycloudflare.com';
+  static const _base = 'https://cas-supplements-overview-bronze.trycloudflare.com';
   static const _localBase = 'http://127.0.0.1:8000';
 
   static const _headers = {

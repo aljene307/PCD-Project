@@ -17,7 +17,7 @@ from models import (
 from rag_service import build_full_rag_context
 
 GROQ_API_KEY = "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"
-MODEL = "llama-3.3-70b-versatile"
+MODEL = "llama3-70b-8192"
 
 SUITABILITY_LABELS = {
     "S1": "Highly Suitable",

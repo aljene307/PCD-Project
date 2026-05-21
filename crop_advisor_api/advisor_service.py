@@ -80,12 +80,18 @@ def _strip_nulls(obj):
 def _build_system_prompt(context: dict) -> str:
     soil_layers = _strip_nulls(context.get("soil_layers", {}))
     crop_requirements = _strip_nulls(context.get("crop_requirements", {}))
-    # No indent — saves ~40% tokens vs indent=2
+
+    soil_trimmed = {"D1": soil_layers.get("D1", {})}
+
+    # Limit to 3 crops
+    crop_keys = list(crop_requirements.keys())[:3]
+    crops_trimmed = {k: crop_requirements[k] for k in crop_keys}
+
     return (
         SYSTEM_PROMPT_TEMPLATE
-        .replace("{legend}",    SOIL_LEGEND)
-        .replace("{soil_json}", json.dumps(soil_layers,       separators=(",", ":")))
-        .replace("{crops_json}",json.dumps(crop_requirements, separators=(",", ":")))
+        .replace("{legend}",    "")  # drop the legend to save tokens
+        .replace("{soil_json}", json.dumps(soil_trimmed,  separators=(",", ":")))
+        .replace("{crops_json}",json.dumps(crops_trimmed, separators=(",", ":")))
     )
 
 
@@ -95,6 +101,5 @@ async def get_advisor_response(
     user_message: str,
 ) -> str:
     system = _build_system_prompt(context)
-    messages = history + [{"role": "user", "content": user_message}]
-
+    messages = history[-4:] + [{"role": "user", "content": user_message}]
     return await chat_completion(system, messages, max_tokens=1024, temperature=0.5)

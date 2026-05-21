@@ -9,7 +9,8 @@ from database import init_db
 from advisor_router import router as advisor_router
 from crop_router import router as crop_router
 from lab_router import router as lab_router
-
+import os
+print(repr(os.getenv("GROQ_API_KEY")))
 app = FastAPI(title="Crop Advisor API", version="4.0.0")
 
 app.add_middleware(

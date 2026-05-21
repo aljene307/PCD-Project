@@ -277,7 +277,17 @@ class _ChatHeader extends StatelessWidget {
               gradient: AppGradients.amberWarm,
               boxShadow: AppShadows.amberGlow,
             ),
-            child: const Icon(Icons.eco_rounded, color: Colors.white, size: 22),
+            // 👇 UPDATED: Replaced the eco icon with a beautifully clipped brand asset logo
+            child: ClipRRect(
+              borderRadius: BorderRadius.circular(21),
+              child: Padding(
+                padding: const EdgeInsets.all(7.0), // Padding keeps it neat within the orange ring
+                child: Image.asset(
+                  'assets/images/logo.png',
+                  fit: BoxFit.contain,
+                ),
+              ),
+            ),
           ),
         ],
       ),
@@ -373,11 +383,13 @@ class _ErrorState extends StatelessWidget {
               ],
             ),
             const SizedBox(height: 22),
-            Text(
-              'Advisor unavailable',
-              style: AppTextStyles.headingS.copyWith(fontSize: 17),
-              textAlign: TextAlign.center,
-            ),
+            Navigator.of(context).canPop() 
+                ? Text(
+                    'Advisor unavailable',
+                    style: AppTextStyles.headingS.copyWith(fontSize: 17),
+                    textAlign: TextAlign.center,
+                  )
+                : const SizedBox.shrink(),
             const SizedBox(height: 8),
             Text(
               message,
@@ -561,10 +573,17 @@ class _BubbleTile extends StatelessWidget {
                 gradient: isError ? null : AppGradients.amberWarm,
                 color: isError ? AppColors.error.withValues(alpha: 0.15) : null,
               ),
-              child: Icon(
-                isError ? Icons.error_outline_rounded : Icons.eco_rounded,
-                color: isError ? AppColors.error : Colors.white,
-                size: 16,
+              // 👇 UPDATED: Replaced the bot bubble leaf icon with your asset logo too!
+              child: ClipRRect(
+                borderRadius: BorderRadius.circular(15),
+                child: Padding(
+                  padding: const EdgeInsets.all(4.0),
+                  child: Icon(
+                    isError ? Icons.error_outline_rounded : Icons.eco_rounded,
+                    color: isError ? AppColors.error : Colors.white,
+                    size: 16,
+                  ),
+                ),
               ),
             ),
             const SizedBox(width: 8),

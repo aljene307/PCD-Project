@@ -64,7 +64,7 @@ class _LoadingScreenState extends State<LoadingScreen>
 
   Future<void> _loadData() async {
     try {
-      final crops = AppSession.hasLabData
+      final crops = AppSession.labReportExists
           ? await ApiService.getReportCropRecommendations(AppSession.userId)
           : await ApiService.getCropRecommendations(AppSession.userId);
 

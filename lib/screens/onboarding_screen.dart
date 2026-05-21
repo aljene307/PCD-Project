@@ -127,6 +127,8 @@ class _OnboardingScreenState extends State<OnboardingScreen> {
 }
 
 class _Logo extends StatelessWidget {
+  const _Logo();
+
   @override
   Widget build(BuildContext context) {
     return Container(
@@ -154,10 +156,15 @@ class _Logo extends StatelessWidget {
             ),
             boxShadow: AppShadows.amberGlow,
           ),
-          child: const Icon(
-            Icons.eco_rounded,
-            color: AppColors.amber,
-            size: 44,
+          child: ClipRRect(
+            borderRadius: BorderRadius.circular(42),
+            child: Padding(
+              padding: const EdgeInsets.all(12.0), 
+              child: Image.asset(
+                'assets/images/logo.png',
+                fit: BoxFit.contain,
+              ),
+            ),
           ),
         ),
       ),

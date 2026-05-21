@@ -5,7 +5,7 @@ import os
 from fastapi import HTTPException
 from groq import AsyncGroq, RateLimitError as GroqRateLimitError
 
-MODEL = "llama-3.3-70b-versatile"
+MODEL = "llama-3.1-8b-instant"
 
 
 async def chat_completion(
